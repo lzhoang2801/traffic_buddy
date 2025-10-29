@@ -54,7 +54,7 @@ cd dataset
 python download_dataset.py
 ```
 
-2. Or, download manually from [this link](https://drive.google.com/file/d/1F6X7vKzp18wQ6TnNnUuQrQq-OQ19TzZT/view?usp=sharing), then extract the contents into the `dataset` directory.
+2. Or, download manually from [this link](https://drive.google.com/file/d/17i0woqhOJyAktAjmipKiUSz9ygXVbHV5/view?usp=drive_link), then extract the contents into the `dataset` directory.
 
 ## Rule
 
