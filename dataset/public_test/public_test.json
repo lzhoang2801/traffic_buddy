@@ -1,0 +1,4228 @@
+{
+    "__count__": 405,
+    "data": [
+        {
+            "id": "testa_0001",
+            "question": "Theo trong video, nếu ô tô đi hướng chếch sang phải là hướng vào đường nào?",
+            "choices": [
+                "A. Không có thông tin",
+                "B. Dầu Giây Long Thành",
+                "C. Đường Đỗ Xuân Hợp",
+                "D. Xa Lộ Hà Nội"
+            ],
+            "video_path": "public_test/videos/efc9909e_908_clip_001_0000_0009_Y.mp4"
+        },
+        {
+            "id": "testa_0002",
+            "question": "Theo trong video, nếu ô tô đi hướng chếch sang phải là hướng vào đường Xa Lộ Hà Nội. Đúng hay sai?",
+            "choices": [
+                "A. Đúng",
+                "B. Sai"
+            ],
+            "video_path": "public_test/videos/efc9909e_908_clip_001_0000_0009_Y.mp4"
+        },
+        {
+            "id": "testa_0003",
+            "question": "Trong video có xuất hiện biển cảnh báo không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/7194eae2_908_clip_004_0020_0028_Y.mp4"
+        },
+        {
+            "id": "testa_0004",
+            "question": "Phía trước có đèn giao thông không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/37f8a88b_884_clip_001_0000_0010_Y.mp4"
+        },
+        {
+            "id": "testa_0005",
+            "question": "Trong video, biển báo cấm ở góc phía bên phải cấm loại phương tiện nào:",
+            "choices": [
+                "A. Xe đạp",
+                "B. Xe máy",
+                "C. Xe container",
+                "D. Xe lam"
+            ],
+            "video_path": "public_test/videos/37f8a88b_884_clip_001_0000_0010_Y.mp4"
+        },
+        {
+            "id": "testa_0006",
+            "question": "Video có đèn đỏ không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/fb16e5db_884_clip_003_0020_0025_Y.mp4"
+        },
+        {
+            "id": "testa_0007",
+            "question": "Có những loại biển báo nào xuất hiện trong đoạn video?",
+            "choices": [
+                "A. Biển báo cấm, biển hiệu lệnh, biển báo trên đường cao tốc",
+                "B. Biển báo cấm, biển chỉ dẫn",
+                "C. Biển chỉ dẫn, biển phụ"
+            ],
+            "video_path": "public_test/videos/fb16e5db_884_clip_003_0020_0025_Y.mp4"
+        },
+        {
+            "id": "testa_0008",
+            "question": "Tại ngã tư trong video, phương tiện có thể đi được những hướng nào?",
+            "choices": [
+                "A. Đi thẳng",
+                "B. Rẽ trái",
+                "C. Rẽ phải",
+                "D. Tất cả đáp án trên"
+            ],
+            "video_path": "public_test/videos/fb16e5db_884_clip_003_0020_0025_Y.mp4"
+        },
+        {
+            "id": "testa_0009",
+            "question": "Tại ngã tư trong video, phương tiện có thể đi được những hướng nào?",
+            "choices": [
+                "A. Đi thẳng, rẽ trái",
+                "B. Đi thẳng, rẽ phải",
+                "C. Đi thẳng, rẽ trái, rẽ phải",
+                "D. Đi thẳng"
+            ],
+            "video_path": "public_test/videos/e5a4983b_884_clip_004_0025_0031_Y.mp4"
+        },
+        {
+            "id": "testa_0010",
+            "question": "Tại ngã tư trong video, phương tiện có thể quẹo trái không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/e5a4983b_884_clip_004_0025_0031_Y.mp4"
+        },
+        {
+            "id": "testa_0011",
+            "question": "Muốn đi KCX Tân Thuận thì đi theo hướng nào?",
+            "choices": [
+                "A. Đi thẳng",
+                "B. Rẽ trái",
+                "C. Rẽ phải"
+            ],
+            "video_path": "public_test/videos/e5a4983b_884_clip_004_0025_0031_Y.mp4"
+        },
+        {
+            "id": "testa_0012",
+            "question": "Hướng đi cầu Tân Thuận 1 là hướng nào?",
+            "choices": [
+                "A. Đi thẳng",
+                "B. Rẽ trái",
+                "C. Rẽ phải",
+                "D. Không có thông tin hướng đi về cầu"
+            ],
+            "video_path": "public_test/videos/f6f7f0cc_884_clip_008_0051_0060_N.mp4"
+        },
+        {
+            "id": "testa_0013",
+            "question": "Làn đường trong video này có những hướng giao thông chính nào?",
+            "choices": [
+                "A. Đi thẳng, rẽ trái",
+                "B. Đi thẳng, rẽ trái, rẽ phải",
+                "C. Đi thẳng, rẽ trái, rẽ phải, quay đầu",
+                "D. Đi thẳng, rẽ trái, quay đầu"
+            ],
+            "video_path": "public_test/videos/f6f7f0cc_884_clip_008_0051_0060_N.mp4"
+        },
+        {
+            "id": "testa_0014",
+            "question": "Biển chỉ dẫn phía trên cung cấp thông tin về tên các tuyến đường, khoảng cách, và tốc độ, đúng hay sai?",
+            "choices": [
+                "A. Sai",
+                "B. Đúng"
+            ],
+            "video_path": "public_test/videos/f6f7f0cc_884_clip_008_0051_0060_N.mp4"
+        },
+        {
+            "id": "testa_0015",
+            "question": "Trong video, có các loại biển báo nào?",
+            "choices": [
+                "A. Biển cảnh báo nguy hiểm, biển báo cấm",
+                "B. Biển cảnh báo nguy hiểm, biển báo cấm, biển bảo phụ",
+                "C. Biển cảnh báo nguy hiểm, biển báo cấm, biển bảo phụ, biển chỉ dẫn",
+                "D. Biển cảnh báo nguy hiểm, biển báo cấm, biển chỉ dẫn"
+            ],
+            "video_path": "public_test/videos/1931e9ee_800_clip_001_0000_0009_Y.mp4"
+        },
+        {
+            "id": "testa_0016",
+            "question": "Trong video, có biển báo hiệu lệnh không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/1931e9ee_800_clip_001_0000_0009_Y.mp4"
+        },
+        {
+            "id": "testa_0017",
+            "question": "Trong video, biển báo đầu tiên bên phải có ý nghĩa gì?",
+            "choices": [
+                "A. Biển hết tất cả các lệnh cấm.",
+                "B. Báo hết hạn chế tốc độ tối đ",
+                "C. Biển cấm đổ xe.",
+                "D. Báo hết cấm vượt."
+            ],
+            "video_path": "public_test/videos/1931e9ee_800_clip_001_0000_0009_Y.mp4"
+        },
+        {
+            "id": "testa_0018",
+            "question": "Trong video, xác định được 2 loại biển báo giao thông chính, đúng hay sai?",
+            "choices": [
+                "A. Đúng",
+                "B. Sai"
+            ],
+            "video_path": "public_test/videos/2f923996_800_clip_002_0009_0016_Y.mp4"
+        },
+        {
+            "id": "testa_0019",
+            "question": "Trong video, biển tam giác bên phải có ý nghĩa gì?",
+            "choices": [
+                "A. Cảnh báo sắp đến khu đông dân cư",
+                "B. Cảnh báo khu vực thường xuyên có người đi bộ qua đường",
+                "C. Cảnh báo đoạn đường thường có trẻ em đi ngang qua",
+                "D. Cảnh báo sắp đến khu chợ đông người."
+            ],
+            "video_path": "public_test/videos/2f923996_800_clip_002_0009_0016_Y.mp4"
+        },
+        {
+            "id": "testa_0020",
+            "question": "Trong video, hai biển báo bên phải có ý nghĩa gì?",
+            "choices": [
+                "A. Cảnh báo đoạn đường thường có trẻ em đi ngang qu",
+                "B. Cảnh báo đoạn đường thường có trẻ em đi ngang qua trong 200 mét phía trước",
+                "C. Cảnh báo đoạn đường thường có kiểm tra tốc độ và thường có trẻ em đi ngang qua trong 200 mét phía trước",
+                "D. Cảnh báo đoạn đường thường có kiểm tra tốc độ trong 200 mét phía trước"
+            ],
+            "video_path": "public_test/videos/2f923996_800_clip_002_0009_0016_Y.mp4"
+        },
+        {
+            "id": "testa_0021",
+            "question": "Biển báo xuất hiện trong video này thuộc nhóm biển báo nào?",
+            "choices": [
+                "A. Biển báo cấm",
+                "B. Biển báo nguy hiểm",
+                "C. Biển hiệu lệnh",
+                "D. Biển chỉ dẫn"
+            ],
+            "video_path": "public_test/videos/37cc863b_800_clip_008_0054_0062_N.mp4"
+        },
+        {
+            "id": "testa_0022",
+            "question": "Trong video này, loại phương tiện nào được phép lưu thông trên làn đường ngoài cùng bên phải?",
+            "choices": [
+                "A. Ô tô",
+                "B. Ô tô và xe máy",
+                "C. Ô tô, xe máy và xe đạp",
+                "D. Xe máy, xe lam và xe đạp"
+            ],
+            "video_path": "public_test/videos/37cc863b_800_clip_008_0054_0062_N.mp4"
+        },
+        {
+            "id": "testa_0023",
+            "question": "Trong video này, mỗi hướng lưu thông có tổng cộng 4 làn đường đúng hay sai?",
+            "choices": [
+                "A. Đúng",
+                "B. Sai"
+            ],
+            "video_path": "public_test/videos/37cc863b_800_clip_008_0054_0062_N.mp4"
+        },
+        {
+            "id": "testa_0024",
+            "question": "Biển báo hình chữ nhật nền xanh hình trắng bên phải đường trong video có ý nghĩa gì?",
+            "choices": [
+                "A. Biển báo không phải nơi tụ tập.",
+                "B. Biển báo đã ra khỏi thành phố.",
+                "C. Biển báo hết khu đông dân cư.",
+                "D. Biển báo sắp đến thành phố."
+            ],
+            "video_path": "public_test/videos/a334058a_800_clip_012_0087_0093_N.mp4"
+        },
+        {
+            "id": "testa_0025",
+            "question": "Trong video, biển báo hình chữ nhật nền xanh hình trắng bên phải đường có ý nghĩa là biển báo hết khu đông dân cư, phải không?",
+            "choices": [
+                "A. Phải",
+                "B. Không phải"
+            ],
+            "video_path": "public_test/videos/a334058a_800_clip_012_0087_0093_N.mp4"
+        },
+        {
+            "id": "testa_0026",
+            "question": "Trong video có 2 biển báo giao thông, đúng hay sai?",
+            "choices": [
+                "A. Đúng.",
+                "B. Sai."
+            ],
+            "video_path": "public_test/videos/0758e201_800_clip_014_0102_0109_Y.mp4"
+        },
+        {
+            "id": "testa_0027",
+            "question": "Trong video này có bao nhiêu biển thuộc loại cảnh báo nguy hiểm?",
+            "choices": [
+                "A. 1",
+                "B. 2",
+                "C. 3",
+                "D. 4"
+            ],
+            "video_path": "public_test/videos/0758e201_800_clip_014_0102_0109_Y.mp4"
+        },
+        {
+            "id": "testa_0028",
+            "question": "Các biển cảnh báo nguy hiểm trong video này có ý nghĩa gì?",
+            "choices": [
+                "A. Báo hiệu nơi giao nhau có tín hiệu đèn",
+                "B. Báo hiệu đường giao nhau cùng cấp",
+                "C. Báo hiệu giao nhau với đường không ưu tiên liên tiếp, nơi giao nhau có tín hiệu đèn",
+                "D. Cảnh báo đường trơn, báo hiệu đường giao nhau cùng cấp"
+            ],
+            "video_path": "public_test/videos/0758e201_800_clip_014_0102_0109_Y.mp4"
+        },
+        {
+            "id": "testa_0029",
+            "question": "Trong video, biển báo bên trái đèn tín hiệu giao thông là gì? Chọn đáp án đầy đủ nhất.",
+            "choices": [
+                "A. Biển báo chỉ dẫn nơi người đi bộ sang ngang",
+                "B. Biển báo chỉ dẫn nơi người đi bộ sang ngang, thông báo cho người tham gia giao thông biết vị trí dành cho người đi bộ băng qua đường an toàn",
+                "C. Biển báo chỉ dẫn nơi người đi bộ sang ngang, thông báo cho người tham gia giao thông biết vị trí dành cho người đi bộ băng qua đường an toàn. Người lái xe phải giảm tốc độ, quan sát và ưu tiên nhường đường cho người đi bộ.",
+                "D. Biển báo chỉ dẫn nơi người đi bộ sang ngang, người lái xe phải giảm tốc độ, quan sát và ưu tiên nhường đường cho người đi bộ."
+            ],
+            "video_path": "public_test/videos/238d6f44_800_clip_015_0109_0117_N.mp4"
+        },
+        {
+            "id": "testa_0030",
+            "question": "Trong video này, muốn đi Suối Tre thì cần đi hướng nào?",
+            "choices": [
+                "A. Đi thẳng, và rẽ trái.",
+                "B. Rẽ phải, và tiếp tục đi thằng.",
+                "C. Chuẩn bị rẽ trái",
+                "D. Đi 300m nữa rẽ trái."
+            ],
+            "video_path": "public_test/videos/238d6f44_800_clip_015_0109_0117_N.mp4"
+        },
+        {
+            "id": "testa_0031",
+            "question": "Trong video có 2 loại biển báo, đúng hay sai?",
+            "choices": [
+                "A. Đúng",
+                "B. Sai"
+            ],
+            "video_path": "public_test/videos/f1f8343e_800_clip_017_0122_0128_Y.mp4"
+        },
+        {
+            "id": "testa_0032",
+            "question": "Trong video, ý nghĩa đầy đủ và chính xác nhất của biển báo màu xanh bên phải đường là gì?",
+            "choices": [
+                "A. Bắt buộc các loại xe có hình trên biển phải đi vào các làn đường đã được chỉ dẫn, đồng thời cấm ô tô đi vào làn của mô tô, xe đạp và ngược lại.",
+                "B. Biển chỉ dẫn các phương tiện phải giữ tốc độ tối thiểu tương ứng với làn đường của mình để đảm bảo an toàn giao thông.",
+                "C. Biển báo hiệu lệnh Đường dành riêng cho từng loại phương tiện theo từng làn đường được phân chi",
+                "D. Cảnh báo phía trước là khu vực đông dân cư có sự lưu thông hỗn hợp của các loại xe ô tô, mô tô và xe đạp."
+            ],
+            "video_path": "public_test/videos/f1f8343e_800_clip_017_0122_0128_Y.mp4"
+        },
+        {
+            "id": "testa_0033",
+            "question": "Biển báo bên phải trong video Không có liệt kê loại phương tiện nào?",
+            "choices": [
+                "A. Xe đạp",
+                "B. Xe máy ba bánh",
+                "C. Xe tải",
+                "D. Xe ô tô"
+            ],
+            "video_path": "public_test/videos/f1f8343e_800_clip_017_0122_0128_Y.mp4"
+        },
+        {
+            "id": "testa_0034",
+            "question": "Biển báo hạn chế trọng lượng trên trục xe áp dụng cho tuyến đường hẻm, đúng hay sai?",
+            "choices": [
+                "A. Đúng",
+                "B. Sai"
+            ],
+            "video_path": "public_test/videos/d39e198b_800_clip_018_0128_0134_N.mp4"
+        },
+        {
+            "id": "testa_0035",
+            "question": "Những biển báo nào xuất hiện trong video?",
+            "choices": [
+                "A. Hạn chế trọng lượng trên trục xe, Cấm đi ngược chiều",
+                "B. Giao nhau chạy theo vòng xuyến, Cấm xe tải",
+                "C. Hạn chế trọng lượng trên trục xe, giao nhau chạy theo vòng xuyến",
+                "D. Hạn chế trọng lượng trên trục xe, đường giao nhau"
+            ],
+            "video_path": "public_test/videos/d39e198b_800_clip_018_0128_0134_N.mp4"
+        },
+        {
+            "id": "testa_0036",
+            "question": "Biển báo hạn chế trọng lượng trên trục xe áp dụng cho tuyến đường nào?",
+            "choices": [
+                "A. Tuyến đường xe đang chạy",
+                "B. Tuyến đường hẻm",
+                "C. Cả 2 tuyến đường",
+                "D. Một phần tuyến đường xe đang chạy"
+            ],
+            "video_path": "public_test/videos/d39e198b_800_clip_018_0128_0134_N.mp4"
+        },
+        {
+            "id": "testa_0037",
+            "question": "Trong video, biển báo nguy hiểm xuất hiện ở đầu video có phải là biển báo chỗ ngoặt nguy hiểm vòng bên phải không?",
+            "choices": [
+                "A. Phải",
+                "B. Không phải"
+            ],
+            "video_path": "public_test/videos/610461e3_800_clip_021_0148_0156_Y.mp4"
+        },
+        {
+            "id": "testa_0038",
+            "question": "Nội dung của biển báo nguy hiểm và biển chỉ dẫn xuất hiện ở đầu video là gì?",
+            "choices": [
+                "A. Đường hẹp bên trái, bến xe buýt",
+                "B. Chỗ ngoặc nguy hiểm vòng bên trái, bến xe buýt",
+                "C. Chỗ ngoặc nguy hiểm vòng bên phải, bến xe buýt",
+                "D. Chỗ ngoặc nguy hiểm vòng bên phải, trạm săn"
+            ],
+            "video_path": "public_test/videos/610461e3_800_clip_021_0148_0156_Y.mp4"
+        },
+        {
+            "id": "testa_0039",
+            "question": "Nội dung của biển báo nguy hiểm xuất hiện ở đầu video là gì?",
+            "choices": [
+                "A. Đường hẹp bên trái",
+                "B. Chỗ ngoặc nguy hiểm vòng bên phải",
+                "C. Đường hẹp bên phải",
+                "D. Chỗ ngoặc nguy hiểm vòng bên trái"
+            ],
+            "video_path": "public_test/videos/610461e3_800_clip_021_0148_0156_Y.mp4"
+        },
+        {
+            "id": "testa_0040",
+            "question": "Nội dung biển báo là gì?",
+            "choices": [
+                "A. Giao nhau với đường sắt có rào chắn",
+                "B. Giao nhau với đường ưu tiên",
+                "C. Đường giao nhau",
+                "D. Giao nhau với đường không ưu tiên"
+            ],
+            "video_path": "public_test/videos/7c52fa17_800_clip_022_0156_0161_Y.mp4"
+        },
+        {
+            "id": "testa_0041",
+            "question": "Xe có đang đi đúng làn không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/7c52fa17_800_clip_022_0156_0161_Y.mp4"
+        },
+        {
+            "id": "testa_0042",
+            "question": "Trong video, có phải xuất hiện 2 loại biển báo không?",
+            "choices": [
+                "A. Phải",
+                "B. Không phải"
+            ],
+            "video_path": "public_test/videos/64d6dfbf_944_clip_004_0018_0026_Y.mp4"
+        },
+        {
+            "id": "testa_0043",
+            "question": "Trong video xuất hiện biển báo nào sau đây? (Chọn đáp án đúng nhất)",
+            "choices": [
+                "A. Biển báo giao nhau với đường không ưu tiên",
+                "B. Biển báo giao nhau với đường không ưu tiên, biển chỉ dẫn đường đi bộ",
+                "C. Biển chỉ dẫn đường đi bộ",
+                "D. Biển báo giao nhau với đường ưu tiên, biển chỉ dẫn đường đi bộ"
+            ],
+            "video_path": "public_test/videos/64d6dfbf_944_clip_004_0018_0026_Y.mp4"
+        },
+        {
+            "id": "testa_0044",
+            "question": "Có mấy loại biển báo trong video?",
+            "choices": [
+                "A. 1",
+                "B. 2",
+                "C. 3",
+                "D. 4"
+            ],
+            "video_path": "public_test/videos/64d6dfbf_944_clip_004_0018_0026_Y.mp4"
+        },
+        {
+            "id": "testa_0045",
+            "question": "Trong video này, xe máy có được rẽ phải khi đèn đỏ không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/e7b7b4c6_944_clip_005_0026_0035_N.mp4"
+        },
+        {
+            "id": "testa_0046",
+            "question": "Có mấy loại biển báo trong video?",
+            "choices": [
+                "A. 1",
+                "B. 2",
+                "C. 3",
+                "D. 4"
+            ],
+            "video_path": "public_test/videos/e7b7b4c6_944_clip_005_0026_0035_N.mp4"
+        },
+        {
+            "id": "testa_0047",
+            "question": "Xe có đang chạy đúng làn không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/44777442_944_clip_006_0035_0041_Y.mp4"
+        },
+        {
+            "id": "testa_0048",
+            "question": "Ý nghĩ của vạch kẻ liền màu vàng là gì",
+            "choices": [
+                "A. Khu vực cấm dừng cấm đỗ xe",
+                "B. Xác định vị trí dừng xe",
+                "C. Vạch dừng xe",
+                "D. Khu vực cấm đỗ xe"
+            ],
+            "video_path": "public_test/videos/44777442_944_clip_006_0035_0041_Y.mp4"
+        },
+        {
+            "id": "testa_0049",
+            "question": "Nội dung của biển báo nguy hiểm là gì?",
+            "choices": [
+                "A. Đường giao nhau",
+                "B. Giao nhau với đường ưu tiên",
+                "C. Giao nhau với đường không ưu tiên",
+                "D. Giao nhau với đường hai chiều"
+            ],
+            "video_path": "public_test/videos/ff574e2b_944_clip_007_0041_0050_Y.mp4"
+        },
+        {
+            "id": "testa_0050",
+            "question": "Biển cảnh báo \"Đường giao nhau cùng cấp\" có xuất hiện trong video không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/ff574e2b_944_clip_007_0041_0050_Y.mp4"
+        },
+        {
+            "id": "testa_0051",
+            "question": "Trong video này có biển báo cấm xe mô tô, đúng hay sai?",
+            "choices": [
+                "A. Đúng",
+                "B. Sai"
+            ],
+            "video_path": "public_test/videos/cafda613_944_clip_009_0059_0065_N.mp4"
+        },
+        {
+            "id": "testa_0052",
+            "question": "Có bao nhiêu biển báo trong video?",
+            "choices": [
+                "A. 1",
+                "B. 2",
+                "C. 3",
+                "D. 4"
+            ],
+            "video_path": "public_test/videos/cafda613_944_clip_009_0059_0065_N.mp4"
+        },
+        {
+            "id": "testa_0053",
+            "question": "Trong video xuất hiện biển báo nào sau đây? (Chọn đáp án đúng nhất)",
+            "choices": [
+                "A. Biển báo giao nhau với đường không ưu tiên",
+                "B. Biển báo giao nhau với đường không ưu tiên, biển cấm dừng và đỗ",
+                "C. Biển cấm dừng và đỗ, biển cấm quay đầu",
+                "D. Biển báo giao nhau với đường không ưu tiên, biển chỉ dẫn đường ưu tiên, biển cấm đỗ"
+            ],
+            "video_path": "public_test/videos/dc96925e_944_clip_010_0065_0074_Y.mp4"
+        },
+        {
+            "id": "testa_0054",
+            "question": "Trong video, có phải xuất hiện biển báo nguy hiểm không?",
+            "choices": [
+                "A. Phải",
+                "B. Không phải"
+            ],
+            "video_path": "public_test/videos/dc96925e_944_clip_010_0065_0074_Y.mp4"
+        },
+        {
+            "id": "testa_0055",
+            "question": "Trong video xuất hiện loại biển báo nào sau đây?",
+            "choices": [
+                "A. Biển hiệu lệnh",
+                "B. Biển báo nguy hiểm",
+                "C. Biển cấm",
+                "D. Tất cả đều đúng"
+            ],
+            "video_path": "public_test/videos/dc96925e_944_clip_010_0065_0074_Y.mp4"
+        },
+        {
+            "id": "testa_0056",
+            "question": "Trong video, xuất hiện biển báo nào?",
+            "choices": [
+                "A. Giao nhau với ưu tiên",
+                "B. Giao nhau với đường sắt có rào chắn",
+                "C. Đường giao nhau",
+                "D. Giao nhau với đường không ưu tiên"
+            ],
+            "video_path": "public_test/videos/a81fdec3_944_clip_011_0074_0084_N.mp4"
+        },
+        {
+            "id": "testa_0057",
+            "question": "Tốc độ tối đa được phép trên làn đường đang chạy là bao nhiêu?",
+            "choices": [
+                "A. 60 km/h",
+                "B. 50 km/h",
+                "C. 80 km/h",
+                "D. Không có thông tin"
+            ],
+            "video_path": "public_test/videos/e9da484a_944_clip_013_0089_0098_Y.mp4"
+        },
+        {
+            "id": "testa_0058",
+            "question": "Trong video, đoạn đường xe đang chạy xe giao nhau với đường ưu tiên tại nút giao tiếp theo đúng không?",
+            "choices": [
+                "A. Đúng",
+                "B. Sai"
+            ],
+            "video_path": "public_test/videos/e9da484a_944_clip_013_0089_0098_Y.mp4"
+        },
+        {
+            "id": "testa_0059",
+            "question": "Biển báo trong video là loại biển báo gì?",
+            "choices": [
+                "A. Giao nhau với đường ưu tiên",
+                "B. Đường giao nhau, Giao nhau với đường không ưu tiên",
+                "C. Giao nhau với đường không ưu tiên",
+                "D. Đường giao nhau"
+            ],
+            "video_path": "public_test/videos/e9da484a_944_clip_013_0089_0098_Y.mp4"
+        },
+        {
+            "id": "testa_0060",
+            "question": "Biển báo trong video là loại biển báo gì?",
+            "choices": [
+                "A. Giao nhau với đường ưu tiên",
+                "B. Đường giao nhau",
+                "C. Giao nhau với đường không ưu tiên",
+                "D. Đường giao nhau"
+            ],
+            "video_path": "public_test/videos/8b040f49_944_clip_014_0098_0103_Y.mp4"
+        },
+        {
+            "id": "testa_0061",
+            "question": "Trong video, nếu xe con gặp xe máy chạy từ đường nhánh giao với đường đang chạy thì xe con phải nhường xe máy chạy trước đúng không?",
+            "choices": [
+                "A. Đúng",
+                "B. Sai"
+            ],
+            "video_path": "public_test/videos/8b040f49_944_clip_014_0098_0103_Y.mp4"
+        },
+        {
+            "id": "testa_0062",
+            "question": "Theo các biển báo trong video, đoạn đường xe đang chạy sẽ giao nhau với đường ưu tiên đúng không?",
+            "choices": [
+                "A. Đúng",
+                "B. Sai"
+            ],
+            "video_path": "public_test/videos/6aedfdc7_944_clip_016_0110_0119_Y.mp4"
+        },
+        {
+            "id": "testa_0063",
+            "question": "Trong video, các biển báo có thể nhận diện thuộc mấy nhóm biển báo khác nhau?",
+            "choices": [
+                "A. 2",
+                "B. 3",
+                "C. 4",
+                "D. 5"
+            ],
+            "video_path": "public_test/videos/6aedfdc7_944_clip_016_0110_0119_Y.mp4"
+        },
+        {
+            "id": "testa_0064",
+            "question": "Trong video bao gồm những loại biển báo: Người đi bộ cắt ngang, Trẻ em và Biển báo phụ 200m, đúng hay sai?",
+            "choices": [
+                "A. Đúng",
+                "B. Sai"
+            ],
+            "video_path": "public_test/videos/1c11f735_944_clip_017_0119_0129_Y.mp4"
+        },
+        {
+            "id": "testa_0065",
+            "question": "Trong video bao gồm những loại biển báo gì?",
+            "choices": [
+                "A. Người đi bộ cắt ngang, Trẻ em, Biển báo phụ 200m",
+                "B. Người đi bộ cắt ngang, Trẻ em, cấm quay đầu",
+                "C. Trẻ em, Biển báo phụ 200m, cấm đi ngược chiều",
+                "D. Người đi bộ cắt ngang, Biển báo phụ 200m, cấm xe tải"
+            ],
+            "video_path": "public_test/videos/1c11f735_944_clip_017_0119_0129_Y.mp4"
+        },
+        {
+            "id": "testa_0066",
+            "question": "Tốc độ tối đa của các phương tiện được chạy là bao nhiêu",
+            "choices": [
+                "A. 50km/h",
+                "B. 60km/h",
+                "C. 70km/h",
+                "D. 80km/h"
+            ],
+            "video_path": "public_test/videos/68586eba_944_clip_020_0145_0153_Y.mp4"
+        },
+        {
+            "id": "testa_0067",
+            "question": "Những biến báo nào sau đây xuất hiện trong video?",
+            "choices": [
+                "A. Tốc độ tối đa cho phép là 60 km/h",
+                "B. Cấm vượt",
+                "C. Tốc độ tối đa cho phép là 60 km/h, Cấm vượt",
+                "D. Tốc độ tối thiểu là 60 km/h, Cấm vượt"
+            ],
+            "video_path": "public_test/videos/68586eba_944_clip_020_0145_0153_Y.mp4"
+        },
+        {
+            "id": "testa_0068",
+            "question": "Video có đèn đỏ không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/48f9e3d0_944_clip_021_0153_0162_N.mp4"
+        },
+        {
+            "id": "testa_0069",
+            "question": "Phương tiện có được dừng và đỗ xe trên đoạn đường đang chạy không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/3605bf54_944_clip_024_0172_0180_Y.mp4"
+        },
+        {
+            "id": "testa_0070",
+            "question": "Trong video bao gồm những loại biển báo gì?",
+            "choices": [
+                "A. Người đi bộ cắt ngang, Trẻ em, Biển báo phụ 200m",
+                "B. Người đi bộ cắt ngang, Trẻ em",
+                "C. Trẻ em, Biển báo phụ 200m",
+                "D. Người đi bộ cắt ngang, Biển báo phụ 200m"
+            ],
+            "video_path": "public_test/videos/3605bf54_944_clip_024_0172_0180_Y.mp4"
+        },
+        {
+            "id": "testa_0071",
+            "question": "Biển báo xuất hiện trong video chỉ dẫn vị trí trạm dừng nghỉ trên tuyến cao tố",
+            "choices": [
+                "A. Đúng",
+                "B. Sai"
+            ],
+            "video_path": "public_test/videos/2b0abedd_867_clip_005_0030_0039_N.mp4"
+        },
+        {
+            "id": "testa_0072",
+            "question": "Biển báo xuất hiện trong video có ý nghĩa gì?",
+            "choices": [
+                "A. Chỉ dẫn vị trí trạm dừng nghỉ trên tuyến cao tốc",
+                "B. Báo hiệu có điểm dừng kỹ thuật để kiểm tra phương tiện",
+                "C. Chỉ dẫn vị trí điện thoại khẩn cấp để liên hệ cứu hộ, cứu nạn khi có sự cố",
+                "D. Báo hiệu khu vực có trạm thu phí phía trước"
+            ],
+            "video_path": "public_test/videos/2b0abedd_867_clip_005_0030_0039_N.mp4"
+        },
+        {
+            "id": "testa_0073",
+            "question": "Tốc độ tối đa xe được phép chạy trên đoạn đường này là bao nhiêu ?",
+            "choices": [
+                "A. 80 km/h",
+                "B. 90 km/h",
+                "C.100 km/h",
+                "D. 110 km/h"
+            ],
+            "video_path": "public_test/videos/c4536f1d_867_clip_014_0102_0112_Y.mp4"
+        },
+        {
+            "id": "testa_0074",
+            "question": "Tốc độ tối đa xe được phép chạy trên đoạn đường này là 90km/h, đúng hay sai?",
+            "choices": [
+                "A. Đúng",
+                "B. Sai"
+            ],
+            "video_path": "public_test/videos/c4536f1d_867_clip_014_0102_0112_Y.mp4"
+        },
+        {
+            "id": "testa_0075",
+            "question": "Biển báo xuất hiện đầu tiên trong video có ý nghĩa gì?",
+            "choices": [
+                "A. Đi chậm",
+                "B. Dốc lên nguy hiểm",
+                "C. Cầu hẹp",
+                "D. Đường ngầm"
+            ],
+            "video_path": "public_test/videos/80fb9296_867_clip_016_0119_0128_Y.mp4"
+        },
+        {
+            "id": "testa_0076",
+            "question": "Trong video, biển báo xuất hiện đầu tiên có ý nghĩa là cảnh báo dốc xuống nguy hiểm, phải không?",
+            "choices": [
+                "A. Phải",
+                "B. Không phải"
+            ],
+            "video_path": "public_test/videos/80fb9296_867_clip_016_0119_0128_Y.mp4"
+        },
+        {
+            "id": "testa_0077",
+            "question": "Xe đang đi về đâu?",
+            "choices": [
+                "A. Hà Nội",
+                "B. Hải Phòng",
+                "C. Tây Nguyên",
+                "D. TP. Hồ Chí Minh"
+            ],
+            "video_path": "public_test/videos/a6499cdc_867_clip_022_0170_0180_N.mp4"
+        },
+        {
+            "id": "testa_0078",
+            "question": "Trong video, xe có được chuyển làn trên tuyến đường đang chạy không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/a6499cdc_867_clip_022_0170_0180_N.mp4"
+        },
+        {
+            "id": "testa_0079",
+            "question": "Trong video có biển báo hướng phải đi vòng sang trái không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/ec5b227c_789_clip_006_0038_0046_N.mp4"
+        },
+        {
+            "id": "testa_0080",
+            "question": "Biển báo cấm xuất hiện trong video là biển báo cấm gì?",
+            "choices": [
+                "A. Cấm đi ngược chiều",
+                "B. Cấm quay đầu xe",
+                "C. Cả A và B đều đúng",
+                "D. Cả A và B đều sai"
+            ],
+            "video_path": "public_test/videos/ec5b227c_789_clip_006_0038_0046_N.mp4"
+        },
+        {
+            "id": "testa_0081",
+            "question": "Xe máy có đang vi phạm giao thông không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/74273ca3_789_clip_007_0046_0054_Y.mp4"
+        },
+        {
+            "id": "testa_0082",
+            "question": "Biển báo cấm xuất hiện trong video mang ý nghĩa gì?",
+            "choices": [
+                "A. Cấm đi ngược chiều",
+                "B. Đường cấm",
+                "C. Cấm dừng và đỗ xe",
+                "D. Không có đáp án đúng"
+            ],
+            "video_path": "public_test/videos/74273ca3_789_clip_007_0046_0054_Y.mp4"
+        },
+        {
+            "id": "testa_0083",
+            "question": "Liệt kê các loại biển xuất hiện trong video là gì (chọn đáp án đúng và đủ nhất)?",
+            "choices": [
+                "A. Biển cấm đi ngược chiều, biển hiệu lệnh hướng phải đi vòng sang phải",
+                "B. Biển cấm đi ngược chiều, biển hiệu lệnh hướng phải đi vòng sang trái",
+                "C. Biển cấm dừng và đỗ xe, biển hiệu lệnh hướng phải đi vòng sang phải",
+                "D. Biển cấm dừng và đỗ xe, biển hiệu lệnh hướng phải đi vòng sang trái"
+            ],
+            "video_path": "public_test/videos/74273ca3_789_clip_007_0046_0054_Y.mp4"
+        },
+        {
+            "id": "testa_0084",
+            "question": "Biển hiệu lệnh rẽ trái kèm biển phụ dành cho đối tượng nào?",
+            "choices": [
+                "A. Xe tải, xe sơ-mi rơ-moóc",
+                "B. Xe tải, xe kéo rơ-moóc",
+                "C. Xe tải, xe ba bánh",
+                "D. Xe sơ-mi rơ-moó"
+            ],
+            "video_path": "public_test/videos/c85aca46_789_clip_009_0063_0073_N.mp4"
+        },
+        {
+            "id": "testa_0085",
+            "question": "Trong video có hiệu lệnh rẽ trái cho xe buýt không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/c85aca46_789_clip_009_0063_0073_N.mp4"
+        },
+        {
+            "id": "testa_0086",
+            "question": "Nhóm biển xuất hiện phía bên phải trong video là gì (chọn đáp án đúng và đủ nhất)?",
+            "choices": [
+                "A. Biển cảnh báo nguy hiểm và biển hiệu lệnh",
+                "B. Biển cảnh báo nguy hiểm, biển hiệu lệnh, và biển phụ",
+                "C. Biển hiệu lệnh và biển phụ",
+                "D. Biển cảnh báo nguy hiểm và biển phụ"
+            ],
+            "video_path": "public_test/videos/c85aca46_789_clip_009_0063_0073_N.mp4"
+        },
+        {
+            "id": "testa_0087",
+            "question": "Biển báo hình tròn xuất hiện đầu tiên phía bên phải trong video mang ý nghĩa gì?",
+            "choices": [
+                "A. Tốc độ tối đa cho phép",
+                "B. Tốc độ tối thiểu",
+                "C. Hạn chế trọng luợng xe",
+                "D. Không có đáp án đúng"
+            ],
+            "video_path": "public_test/videos/508ebad7_789_clip_010_0073_0083_Y.mp4"
+        },
+        {
+            "id": "testa_0088",
+            "question": "Trong video có xuất hiện đèn giao thông không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/508ebad7_789_clip_010_0073_0083_Y.mp4"
+        },
+        {
+            "id": "testa_0089",
+            "question": "Trong video có xuất hiện đèn giao thông không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/ed7bf656_789_clip_012_0091_0099_Y.mp4"
+        },
+        {
+            "id": "testa_0090",
+            "question": "Biển báo trong video mang ý nghĩa gì?",
+            "choices": [
+                "A. Nhiều chỗ ngoặt nguy hiểm liên tiếp",
+                "B. Đường hẹp cả 2 bên",
+                "C. Đường 2 chiều",
+                "D. Đường giao nhau"
+            ],
+            "video_path": "public_test/videos/ed7bf656_789_clip_012_0091_0099_Y.mp4"
+        },
+        {
+            "id": "testa_0091",
+            "question": "Nếu xe tải đi trên làn đường đang chạy thì tốc độ tối đa được cho phép là bao nhiêu?",
+            "choices": [
+                "A. 60 km/h",
+                "B. 70 km/h",
+                "C. 80 km/h",
+                "D. 90 km/h"
+            ],
+            "video_path": "public_test/videos/7129cec7_865_clip_006_0047_0056_Y.mp4"
+        },
+        {
+            "id": "testa_0092",
+            "question": "Xe ô tô chở khách trên đoạn đường này có được đi với tốc độ 70km/h không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/7129cec7_865_clip_006_0047_0056_Y.mp4"
+        },
+        {
+            "id": "testa_0093",
+            "question": "Trên làn đường đang chạy có những biển báo cấm nào. Chọn đáp án đầy đủ nhất",
+            "choices": [
+                "A. Cấm ô tô",
+                "B. Cấm đỗ xe",
+                "C. Cấm xe máy, cấm đỗ xe",
+                "D. Cấm xe máy và xe lam, cấm dừng và đỗ xe"
+            ],
+            "video_path": "public_test/videos/7129cec7_865_clip_006_0047_0056_Y.mp4"
+        },
+        {
+            "id": "testa_0094",
+            "question": "Trong video, biển báo giao thông xuất hiện trên làn đường đang chạy thuộc loại chỉ dẫn, phải không?",
+            "choices": [
+                "A. Phải",
+                "B. Không Phải"
+            ],
+            "video_path": "public_test/videos/fd72b050_865_clip_008_0061_0071_Y.mp4"
+        },
+        {
+            "id": "testa_0095",
+            "question": "Biển báo giao thông xuất hiện trên làn đường đang chạy thuộc loại nào?",
+            "choices": [
+                "A. Biển báo cấm",
+                "B. Biển chỉ dẫn",
+                "C. Biển hiệu lệnh",
+                "D. Biển báo nguy hiểm"
+            ],
+            "video_path": "public_test/videos/fd72b050_865_clip_008_0061_0071_Y.mp4"
+        },
+        {
+            "id": "testa_0096",
+            "question": "Phương tiện trên làn đường đang chạy được phép đi theo hướng nào khi đến nút giao?",
+            "choices": [
+                "A. Đi thẳng",
+                "B. Đi thẳng và rẽ phải",
+                "C. Đi thẳng và rẽ trái",
+                "D. Đi thẳng, rẽ phải và rẽ trái"
+            ],
+            "video_path": "public_test/videos/52e2afd9_865_clip_010_0078_0088_Y.mp4"
+        },
+        {
+            "id": "testa_0097",
+            "question": "Làn đường đang chạy trong video có bị giới hạn tốc độ không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/52e2afd9_865_clip_010_0078_0088_Y.mp4"
+        },
+        {
+            "id": "testa_0098",
+            "question": "Biển báo cấm dừng và đỗ xe áp dụng cho loại phương tiện nào trên làn đường đang chạy?",
+            "choices": [
+                "A. Mọi loại phương tiện",
+                "B. Chỉ xe tải",
+                "C. Chỉ ô tô",
+                "D. Xe máy"
+            ],
+            "video_path": "public_test/videos/688c7015_865_clip_013_0102_0111_Y.mp4"
+        },
+        {
+            "id": "testa_0099",
+            "question": "Trên làn đường đang chạy có bao nhiêu loại phương tiện bị giới hạn tốc độ?",
+            "choices": [
+                "A. 1",
+                "B. 2",
+                "C. 3",
+                "D. 4"
+            ],
+            "video_path": "public_test/videos/688c7015_865_clip_013_0102_0111_Y.mp4"
+        },
+        {
+            "id": "testa_0100",
+            "question": "Trong video, trên làn đường đang chạy có 4 loại phương tiện bị giới hạn tốc độ, phải không?",
+            "choices": [
+                "A. Phải",
+                "B. Không phải"
+            ],
+            "video_path": "public_test/videos/688c7015_865_clip_013_0102_0111_Y.mp4"
+        },
+        {
+            "id": "testa_0101",
+            "question": "Phía trước làn đường đang chạy trong video này có hầm chui, đúng hay sai?",
+            "choices": [
+                "A. Đúng",
+                "B. Sai"
+            ],
+            "video_path": "public_test/videos/0577aea9_865_clip_021_0161_0166_Y.mp4"
+        },
+        {
+            "id": "testa_0102",
+            "question": "Tốc độ tối đa được cho phép trên làn đường đang chạy là bao nhiêu?",
+            "choices": [
+                "A. 50 km/hh",
+                "B. 60km/h",
+                "C. 70 km/h",
+                "D. 80 km/h"
+            ],
+            "video_path": "public_test/videos/0577aea9_865_clip_021_0161_0166_Y.mp4"
+        },
+        {
+            "id": "testa_0103",
+            "question": "Trên làn đường đang chạy cấm loại phương tiện nào?",
+            "choices": [
+                "A. Mô tô",
+                "B. Ô tô và mô tô",
+                "C. Ô tô và xe tải",
+                "D. Không cấm loại phương tiện nào"
+            ],
+            "video_path": "public_test/videos/0577aea9_865_clip_021_0161_0166_Y.mp4"
+        },
+        {
+            "id": "testa_0104",
+            "question": "Biển báo xuất hiện trong video có phải là biển báo giới hạn chiều cao 6 m không?",
+            "choices": [
+                "A. Phải",
+                "B. Không phải"
+            ],
+            "video_path": "public_test/videos/523ae993_900_clip_001_0000_0005_Y.mp4"
+        },
+        {
+            "id": "testa_0105",
+            "question": "Biển báo trong video là biển báo gì?",
+            "choices": [
+                "A. Biển báo giới hạn chiều cao 4.75 m",
+                "B. Biển báo phụ lối ra",
+                "C. Biển báo tốc độ tối thiểu 100 km/h",
+                "D. Biển báo giới hạn trọng lượng"
+            ],
+            "video_path": "public_test/videos/523ae993_900_clip_001_0000_0005_Y.mp4"
+        },
+        {
+            "id": "testa_0106",
+            "question": "Đoạn đường xe đang chạy có gờ giảm tốc không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/113634a5_900_clip_008_0044_0054_Y.mp4"
+        },
+        {
+            "id": "testa_0107",
+            "question": "Có bao nhiêu nhóm biển báo khác nhau trong video?",
+            "choices": [
+                "A. 3",
+                "B. 4",
+                "C. 5",
+                "D. 6"
+            ],
+            "video_path": "public_test/videos/113634a5_900_clip_008_0044_0054_Y.mp4"
+        },
+        {
+            "id": "testa_0108",
+            "question": "Trong video, có phải xuất hiện biển báo khoảng cách tối thiểu giữa hai xe là 5m, đúng không?",
+            "choices": [
+                "A. Đúng",
+                "B. Sai"
+            ],
+            "video_path": "public_test/videos/743b65a2_900_clip_013_0084_0091_Y.mp4"
+        },
+        {
+            "id": "testa_0109",
+            "question": "Trong video, xuất hiện những biển báo nào sau đây?",
+            "choices": [
+                "A. Biển báo nguy hiểm đi chậm",
+                "B. Biển báo khoảng cách tối thiểu giữa hai xe là 3m",
+                "C. Biển báo phụ \"TẠM DỪNG KIỂM SOÁT VÉ\"",
+                "D. Tất cả đều đúng"
+            ],
+            "video_path": "public_test/videos/743b65a2_900_clip_013_0084_0091_Y.mp4"
+        },
+        {
+            "id": "testa_0110",
+            "question": "Biển quy định tốc độ tối đa 50 km/h cho xe con, đúng hay sai?",
+            "choices": [
+                "A. Đúng",
+                "B. Sai"
+            ],
+            "video_path": "public_test/videos/2c55aef7_900_clip_016_0108_0114_Y.mp4"
+        },
+        {
+            "id": "testa_0111",
+            "question": "Theo biển báo phân làn trong video, xe di chuyển ở làn bên trái ngoài cùng được đi với tốc độ tối đa bao nhiêu?",
+            "choices": [
+                "A. 50 km/h",
+                "B. 60 km/h",
+                "C. 70 km/h",
+                "D. 80 km/h"
+            ],
+            "video_path": "public_test/videos/2c55aef7_900_clip_016_0108_0114_Y.mp4"
+        },
+        {
+            "id": "testa_0112",
+            "question": "Trong video, có xuất hiện biển báo giới hạn chiều cao 3.2 m và biển báo phụ \"40 m\", phải không?",
+            "choices": [
+                "A. Phải",
+                "B. Không phải"
+            ],
+            "video_path": "public_test/videos/286218b8_900_clip_018_0119_0128_Y.mp4"
+        },
+        {
+            "id": "testa_0113",
+            "question": "Trong video, có xuất hiện những biển báo nào sau đây?",
+            "choices": [
+                "A. Biển báo giới hạn chiều cao 3.2 m",
+                "B. Biển báo giới hạn chiều cao 3.2 m, biển báo phụ \"50 m\"",
+                "C. Biển báo phụ \"50 m\"",
+                "D. Biển báo giới hạn trọng lượng"
+            ],
+            "video_path": "public_test/videos/286218b8_900_clip_018_0119_0128_Y.mp4"
+        },
+        {
+            "id": "testa_0114",
+            "question": "Biển báo cấm trong video có ý nghĩa gì?",
+            "choices": [
+                "A. Cấm xe rẽ trái",
+                "B. Cấm xe đi thẳng",
+                "C. Cấm đi ngược chiều",
+                "D. Cấm xe tải lưu thông"
+            ],
+            "video_path": "public_test/videos/44790612_820_clip_004_0021_0027_Y.mp4"
+        },
+        {
+            "id": "testa_0115",
+            "question": "Biển báo cấm trong video có ý nghĩa cấm xe rẽ trái, đúng hay sai?",
+            "choices": [
+                "A. Đúng",
+                "B. Sai"
+            ],
+            "video_path": "public_test/videos/44790612_820_clip_004_0021_0027_Y.mp4"
+        },
+        {
+            "id": "testa_0116",
+            "question": "Video có xuất hiện đèn giao thông không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/5744f596_820_clip_017_0116_0124_Y.mp4"
+        },
+        {
+            "id": "testa_0117",
+            "question": "Biển báo cấm trong video có ý nghĩa gì?",
+            "choices": [
+                "A. Cấm xe rẽ trái",
+                "B. Cấm xe đi thẳng",
+                "C. Cấm đi ngược chiều",
+                "D. Cấm xe tải lưu thông"
+            ],
+            "video_path": "public_test/videos/d1bdb8c0_820_clip_020_0142_0149_Y.mp4"
+        },
+        {
+            "id": "testa_0118",
+            "question": "Biển báo cấm trong video có ý nghĩa cấm xe rẽ trái, đúng hay sai?",
+            "choices": [
+                "A. Đúng",
+                "B. Sai"
+            ],
+            "video_path": "public_test/videos/d1bdb8c0_820_clip_020_0142_0149_Y.mp4"
+        },
+        {
+            "id": "testa_0119",
+            "question": "Biển báo cấm bên trái làn xe chạy trong video có ý nghĩa gì?",
+            "choices": [
+                "A. Cấm đi ngược chiều",
+                "B. Cấm quay đầu xe",
+                "C. Cấm dừng đỗ",
+                "D. Cấm xe tải"
+            ],
+            "video_path": "public_test/videos/4169b9fc_917_clip_005_0037_0044_Y.mp4"
+        },
+        {
+            "id": "testa_0120",
+            "question": "Biển báo cấm bên trái làn xe chạy trong video có ý nghĩa cấm dừng đỗ, đúng hay sai?",
+            "choices": [
+                "A. Đúng",
+                "B. Sai"
+            ],
+            "video_path": "public_test/videos/4169b9fc_917_clip_005_0037_0044_Y.mp4"
+        },
+        {
+            "id": "testa_0121",
+            "question": "Trong video có biển báo hướng phải đi vòng sang phải không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/81e0d489_917_clip_007_0054_0064_Y.mp4"
+        },
+        {
+            "id": "testa_0122",
+            "question": "Biển báo cấm trong video có ý nghĩa gì?",
+            "choices": [
+                "A. Cấm dừng và đỗ xe",
+                "B. Cấm đỗ xe",
+                "C. Cấm đi ngược chiều",
+                "D. Cấm quay đầu xe"
+            ],
+            "video_path": "public_test/videos/81e0d489_917_clip_007_0054_0064_Y.mp4"
+        },
+        {
+            "id": "testa_0123",
+            "question": "Có 1 biển báo cấm xuất hiện trong video khi xe đi qua đèn giao thông. Đúng hay sai?",
+            "choices": [
+                "A. Đúng",
+                "B. Sai"
+            ],
+            "video_path": "public_test/videos/78786140_917_clip_013_0098_0108_Y.mp4"
+        },
+        {
+            "id": "testa_0124",
+            "question": "Có bao nhiêu biển báo cấm xuất hiện trong video khi xe đi qua đèn giao thông?",
+            "choices": [
+                "A. 1",
+                "B. 2",
+                "C. 4",
+                "D. 3"
+            ],
+            "video_path": "public_test/videos/78786140_917_clip_013_0098_0108_Y.mp4"
+        },
+        {
+            "id": "testa_0125",
+            "question": "Biển báo chỉ dẫn bên phải làn xe chạy có ý nghĩa gì?",
+            "choices": [
+                "A. Biển báo giao thông chỉ dẫn bệnh viện",
+                "B. Biển báo chỉ dẫn đường vào đường hầm",
+                "C. Biển báo chỉ vào vòng xuyến",
+                "D. Biển báo chỉ vào khu dân cư"
+            ],
+            "video_path": "public_test/videos/e1e89e7e_917_clip_014_0108_0113_N.mp4"
+        },
+        {
+            "id": "testa_0126",
+            "question": "Biển báo chỉ dẫn bên phải làn xe chạy có ý nghĩa biển báo giao thông chỉ dẫn bệnh viện, đúng hay sai?",
+            "choices": [
+                "A. Đúng",
+                "B. Sai"
+            ],
+            "video_path": "public_test/videos/e1e89e7e_917_clip_014_0108_0113_N.mp4"
+        },
+        {
+            "id": "testa_0127",
+            "question": "Biển báo cấm bên phải làn xe chạy có ý nghĩa gì?",
+            "choices": [
+                "A. Dừng xe và đỗ xe trong mọi trường hợp.",
+                "B. Chỉ cấm xe ô tô con đỗ, không cấm các loại xe khá",
+                "C. Dừng xe quá thời gian quy định hoặc khi người lái xe rời khỏi vị trí lái.",
+                "D. Cấm đỗ xe"
+            ],
+            "video_path": "public_test/videos/328067a1_917_clip_023_0173_0180_Y.mp4"
+        },
+        {
+            "id": "testa_0128",
+            "question": "Biển báo cấm bên phải làn xe chạy có ý nghĩa chỉ cấm xe ô tô con đỗ, không cấm các loại xe khá",
+            "choices": [
+                "A. Đúng",
+                "B. Sai"
+            ],
+            "video_path": "public_test/videos/328067a1_917_clip_023_0173_0180_Y.mp4"
+        },
+        {
+            "id": "testa_0129",
+            "question": "Trong tình huống này, phương tiện có được chuyển làn không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/ee0caeb5_916_clip_002_0009_0014_Y.mp4"
+        },
+        {
+            "id": "testa_0130",
+            "question": "Trong video này, nếu di chuyển sang hướng nút giao An Phú. Thì tốc độ phương tiện cần tuân thủ là bao nhiêu?",
+            "choices": [
+                "A. Tối đa 50 km/h",
+                "B. Tối đa 50.5 km/h",
+                "C. Tối đa 49.5 km/h",
+                "D. Tối đa 50.05 km/h"
+            ],
+            "video_path": "public_test/videos/ee0caeb5_916_clip_002_0009_0014_Y.mp4"
+        },
+        {
+            "id": "testa_0131",
+            "question": "Trong tính huống này, phương tiện muốn chuyển làn cần làm gì?",
+            "choices": [
+                "A. Giảm tốc độ dưới 50 km/h và xi nhan sang phải.",
+                "B. Giảm tốc độ dưới 50 km/h và không chuyển làn vì không được phép.",
+                "C. Giảm tốc độ dưới 50 km/h và xi nhan sang trái.",
+                "C. Giảm tốc độ dưới 50 km/h và xi nhan sang phải từ từ chuyển làn"
+            ],
+            "video_path": "public_test/videos/ee0caeb5_916_clip_002_0009_0014_Y.mp4"
+        },
+        {
+            "id": "testa_0132",
+            "question": "Trong video này, phương tiện nên di chuyển thế nào?",
+            "choices": [
+                "A. Giảm tốc",
+                "B. Tăng tốc",
+                "C. Đi nhanh và chuyển làn sang phải",
+                "D. Đi nhanh và di chuyển thẳng"
+            ],
+            "video_path": "public_test/videos/8d03f17a_916_clip_004_0023_0031_Y.mp4"
+        },
+        {
+            "id": "testa_0133",
+            "question": "Trong video, tuyến đường phương tiện đang di chuyển có giám sát xử phạt bằng camera không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/8d03f17a_916_clip_004_0023_0031_Y.mp4"
+        },
+        {
+            "id": "testa_0134",
+            "question": "Trong video này, phương tiện muốn vượt lên xe bus phía trước cần làm gì?",
+            "choices": [
+                "A. Quan sát kỹ, xi nhan sang phải và tăng tốc vượt lên.",
+                "B. Quan sát kỹ, tăng tốc vượt lên.",
+                "C. Quan sát kỹ, tiếp tục di chuyển đợi xe bus chạy chậm thì vượt.",
+                "D. Quan sát kỹ, tiếp tục di chuyển đợi tới khu vực khác cho phép."
+            ],
+            "video_path": "public_test/videos/6b8e869f_916_clip_006_0040_0048_Y.mp4"
+        },
+        {
+            "id": "testa_0135",
+            "question": "Trong video này, phương tiện có được phép chuyển làn không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/6b8e869f_916_clip_006_0040_0048_Y.mp4"
+        },
+        {
+            "id": "testa_0136",
+            "question": "Trong video có xuất hiện biển báo hiệu lệnh không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/d5b077e0_916_clip_008_0054_0060_Y.mp4"
+        },
+        {
+            "id": "testa_0137",
+            "question": "Trong video này, theo biển báo, phương tiện nếu di chuyển tiếp sẽ?",
+            "choices": [
+                "A. Chỉ được chạy tốc độ tối đa 50 km/h",
+                "B. Được phép chạy với tốc độ tối đa 60 km/h",
+                "C. Không còn hạn chế tốc độ tối đa 50 km/h",
+                "D. Không được phép chạy với tốc độ tối đa trên 50 km/h"
+            ],
+            "video_path": "public_test/videos/d5b077e0_916_clip_008_0054_0060_Y.mp4"
+        },
+        {
+            "id": "testa_0138",
+            "question": "Những biển báo nào xuất hiện trong video?",
+            "choices": [
+                "A. Biển chỉ dẫn, biển hiệu lệnh",
+                "B. Biển chỉ dẫn, biển hiệu lệnh, biển cấm",
+                "C. Biển chỉ dẫn, biển cấm",
+                "D. Chỉ biển cấm"
+            ],
+            "video_path": "public_test/videos/d5b077e0_916_clip_008_0054_0060_Y.mp4"
+        },
+        {
+            "id": "testa_0139",
+            "question": "Trong video có xuất hiện biển báo hiệu lệnh không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/cb2fafa3_961_clip_001_0000_0009_Y.mp4"
+        },
+        {
+            "id": "testa_0140",
+            "question": "Trong video, nếu xe rẽ phải thì sẽ đến những điểm nào?",
+            "choices": [
+                "A. Quận 1 & Quận 4",
+                "B. Cầu Him Lam , Quận 1 & Quận 4",
+                "C. Cầu Him Lam , Quận 1 & Quận 4, Nguyễn Văn Linh",
+                "D. Bệnh viện Tâm Anh, Quận 1 & Quận 4"
+            ],
+            "video_path": "public_test/videos/cb2fafa3_961_clip_001_0000_0009_Y.mp4"
+        },
+        {
+            "id": "testa_0141",
+            "question": "Trong video, nếu xe muốn đi cầu Him Lam thì đi hướng nào?",
+            "choices": [
+                "A. Đi thẳng",
+                "B. Rẽ trái",
+                "C. Rẽ phải",
+                "D. Quay đầu"
+            ],
+            "video_path": "public_test/videos/cb2fafa3_961_clip_001_0000_0009_Y.mp4"
+        },
+        {
+            "id": "testa_0142",
+            "question": "Biển cấm đỗ xe còn cách 150m từ nơi cắm biển mới có hiệu lự",
+            "choices": [
+                "A. Đúng",
+                "B. Sai"
+            ],
+            "video_path": "public_test/videos/7ba24588_961_clip_001_0000_0005_Y.mp4"
+        },
+        {
+            "id": "testa_0143",
+            "question": "Trong video này, người lái xe có được phép đỗ xe ngay sát phía trước biển báo cấm đỗ hay không?",
+            "choices": [
+                "A. Được phép vì biển báo cấm đỗ chỉ có hiệu lực ở phía sau nó.",
+                "B. Không được phép vì biển phụ chỉ dẫn cấm đỗ xe cả đoạn đường 150m phía trướ",
+                "C. Được phép vì biển phụ chỉ dẫn cấm đỗ xe cả đoạn đường 150m phía sau.",
+                "D. Được phép nếu xe đỗ không quá 5 phút."
+            ],
+            "video_path": "public_test/videos/7ba24588_961_clip_001_0000_0005_Y.mp4"
+        },
+        {
+            "id": "testa_0144",
+            "question": "Những biển báo nào xuất hiện trong video?",
+            "choices": [
+                "A. Biển cấm",
+                "B. Biển cấm, biển phụ",
+                "C. Biển cấm, biển phụ, biển cảnh báo",
+                "D. Biển cấm, biển phụ, biển cảnh báo, biển hiệu lệnh"
+            ],
+            "video_path": "public_test/videos/7ba24588_961_clip_001_0000_0005_Y.mp4"
+        },
+        {
+            "id": "testa_0145",
+            "question": "Trong video có xuất hiện biển cấm không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/ac1e86d8_961_clip_003_0014_0023_Y.mp4"
+        },
+        {
+            "id": "testa_0146",
+            "question": "Trong video này, loại vạch kẻ đường nào đang được sử dụng để phân chia các làn đường cho phương tiện giao thông trên lòng đường?",
+            "choices": [
+                "A. Vạch liền nét màu vàng.",
+                "B. Vạch đứt nét màu trắng.",
+                "C. Vạch liền nét màu trắng.",
+                "D. Vạch đôi liền nét màu vàng."
+            ],
+            "video_path": "public_test/videos/ac1e86d8_961_clip_003_0014_0023_Y.mp4"
+        },
+        {
+            "id": "testa_0147",
+            "question": "Trong video này, phương tiện có được phép vượt lên chiếc xe ô tô con màu đen đang đi phía trước hay không?",
+            "choices": [
+                "A. Được phép vượt lên nếu đảm bảo an toàn và đủ không gian để chuyển sang làn bên trái.",
+                "B. Không được phép vượt vì khu vực này có nhiều xe máy đang di chuyển.",
+                "C. Được phép vượt nhưng chỉ khi xe con phía trước bật đèn xi nhan.",
+                "D. Không được phép vượt vì đang ở khu vực đông dân cư."
+            ],
+            "video_path": "public_test/videos/ac1e86d8_961_clip_003_0014_0023_Y.mp4"
+        },
+        {
+            "id": "testa_0148",
+            "question": "Trong video này, giả sử hiện tại là 7:00 sáng, chiếc xe ô tô trắng đang dừng lại để mua hàng, hành vi này có vi phạm luật giao thông hay không?",
+            "choices": [
+                "A. Không vi phạm vì đây là khu vực kinh doanh, được phép dừng để mua hàng.",
+                "B. Vi phạm nghiêm trọng vì hành vi này là \"đỗ xe\" và nằm trong khung giờ cấm được ghi rõ trên biển.",
+                "C. Không vi phạm vì xe không dừng quá 5 phút.",
+                "D. Vi phạm nhẹ vì chỉ là \"dừng xe\" và chưa phải \"đỗ xe\"."
+            ],
+            "video_path": "public_test/videos/9d642932_961_clip_005_0029_0039_Y.mp4"
+        },
+        {
+            "id": "testa_0149",
+            "question": "Theo video này, giả sử vào lúc 5 giờ chiều phương tiện có được phép dừng lại và đỗ xe không?",
+            "choices": [
+                "A. Được phép",
+                "B. Không được phép"
+            ],
+            "video_path": "public_test/videos/9d642932_961_clip_005_0029_0039_Y.mp4"
+        },
+        {
+            "id": "testa_0150",
+            "question": "Trong video này, người lái xe có được phép dừng xe tại vị trí đặt biển báo cấm này để đón/trả khách vào lúc 11 giờ trưa hay không?",
+            "choices": [
+                "A. Không được phép vì đây là biển cấm dừng và cấm đỗ xe.",
+                "B. Được phép dừng xe vì biển cấm chỉ có hiệu lực trong các khung giờ được ghi rõ.",
+                "C. Không được phép dừng xe vì biển cấm này có hiệu lực 24/24 giờ.",
+                "D. Được phép dừng xe nếu quá trình dừng không quá 3 phút."
+            ],
+            "video_path": "public_test/videos/9d642932_961_clip_005_0029_0039_Y.mp4"
+        },
+        {
+            "id": "testa_0151",
+            "question": "Trong video này, biển báo giao thông hình tròn đỏ có tên gọi chính xác là gì?",
+            "choices": [
+                "A. Cấm rẽ phải",
+                "B. Cấm rẽ trái",
+                "C. Cấm quay đầu xe",
+                "D. Cấm đi ngược chiều"
+            ],
+            "video_path": "public_test/videos/5ff595ea_961_clip_003_0017_0024_Y.mp4"
+        },
+        {
+            "id": "testa_0152",
+            "question": "Trong video có xuất hiện biển báo hiệu lệnh không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/5ff595ea_961_clip_003_0017_0024_Y.mp4"
+        },
+        {
+            "id": "testa_0153",
+            "question": "Những biển báo nào xuất hiện trong video?",
+            "choices": [
+                "A. Biển cấm, biển cảnh báo",
+                "B. Biển cấm, biển cảnh báo, biển hiệu lệnh",
+                "C. Biển cảnh báo, biển hiệu lệnh",
+                "D. Chỉ có biển cấm"
+            ],
+            "video_path": "public_test/videos/5ff595ea_961_clip_003_0017_0024_Y.mp4"
+        },
+        {
+            "id": "testa_0154",
+            "question": "Biển báo trong video này có ý nghĩa gì?",
+            "choices": [
+                "A. Cấm dừng đỗ xe",
+                "B. Cấm đỗ xe",
+                "C. Cấm đỗ xe ngày lẻ",
+                "D. Cấm đỗ xe ngày chẵn"
+            ],
+            "video_path": "public_test/videos/ee49f329_961_clip_005_0033_0039_Y.mp4"
+        },
+        {
+            "id": "testa_0155",
+            "question": "Trong video, phương tiện có thể đỗ vào ngày 15 không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/ee49f329_961_clip_005_0033_0039_Y.mp4"
+        },
+        {
+            "id": "testa_0156",
+            "question": "Trong video này, làn đường mà xe đang lưu thông các phương tiện có được phép đi chiều ngược lại không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/b7b56ea7_961_clip_008_0052_0060_Y.mp4"
+        },
+        {
+            "id": "testa_0157",
+            "question": "Trong video này có đèn đỏ không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/b15516bc_961_clip_001_0000_0005_Y.mp4"
+        },
+        {
+            "id": "testa_0158",
+            "question": "Trong video này, vạch kẻ đường nào đang được sử dụng để phân chia giữa phần đường xe ô tô đang đi và phần đường dành cho xe máy (phía bên phải)?",
+            "choices": [
+                "A. Vạch liền nét màu vàng.",
+                "B. Vạch đứt nét màu trắng.",
+                "C. Vạch liền nét màu trắng.",
+                "D. Không có vạch kẻ đường phân chia rõ ràng các loại xe."
+            ],
+            "video_path": "public_test/videos/56ea57b3_961_clip_004_0017_0026_Y.mp4"
+        },
+        {
+            "id": "testa_0159",
+            "question": "Trong video này, đoạn đường mà xe đang đi tới là đường 1 chiều phải không?",
+            "choices": [
+                "A. Đúng",
+                "B. Sai"
+            ],
+            "video_path": "public_test/videos/56ea57b3_961_clip_004_0017_0026_Y.mp4"
+        },
+        {
+            "id": "testa_0160",
+            "question": "Trong video này, biển báo có ý nghĩa gì?",
+            "choices": [
+                "A. Cấm rẽ phải đối với tất cả các loại xe",
+                "B. Cấm rẽ phải chỉ đối với xe buýt và xe tải",
+                "C. Cấm rẽ phải đối với xe máy và xe đạp",
+                "D. Cho phép rẽ phải với xe buýt và xe tải"
+            ],
+            "video_path": "public_test/videos/2260e70f_806_clip_001_0000_0010_Y.mp4"
+        },
+        {
+            "id": "testa_0161",
+            "question": "Trong video này, biển cấm rẽ phải áp dụng cho những phương tiện nào? (Chọn đáp án đúng và đầy đủ nhất)",
+            "choices": [
+                "A. Chỉ cấm rẽ phải với xe buýt và xe tải",
+                "B. Cấm rẽ phải với tất cả các loại xe",
+                "C. Cấm rẽ phải với xe buýt, xe tải và xe máy",
+                "D. Chỉ cấm rẽ phải với xe ô tô con"
+            ],
+            "video_path": "public_test/videos/2260e70f_806_clip_001_0000_0010_Y.mp4"
+        },
+        {
+            "id": "testa_0162",
+            "question": "Xe ô tô ghi hình có được phép quẹo phải hay không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/2260e70f_806_clip_001_0000_0010_Y.mp4"
+        },
+        {
+            "id": "testa_0163",
+            "question": "Xe ô tô có được phép dừng xe trên đoạn đường này không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/c1156d6d_806_clip_002_0010_0015_Y.mp4"
+        },
+        {
+            "id": "testa_0164",
+            "question": "Trong video này, biển báo tam giác có ý nghĩa gì?",
+            "choices": [
+                "A. Yêu cầu người lái xe phải đi chậm",
+                "B. Cấm đi nhanh hơn tốc độ cho phép",
+                "C. Báo hiệu đường một chiều có người đi bộ",
+                "D. Chỉ dẫn khu vực cấm đi bộ"
+            ],
+            "video_path": "public_test/videos/c1156d6d_806_clip_002_0010_0015_Y.mp4"
+        },
+        {
+            "id": "testa_0165",
+            "question": "Trong video này, những biển báo nào xuất hiện? (Chọn đáp án đúng và đầy đủ nhất)",
+            "choices": [
+                "A. Biển cấm đỗ, biển cảnh báo đi chậm và biển cấm xe buýt và xe tải",
+                "B. Biển cấm đỗ và biển cấm xe buýt và xe tải",
+                "C. Biển cảnh báo đi chậm và biển cấm xe buýt và xe tải",
+                "D. Biển cấm đỗ và biển cảnh báo đi chậm"
+            ],
+            "video_path": "public_test/videos/c1156d6d_806_clip_002_0010_0015_Y.mp4"
+        },
+        {
+            "id": "testa_0166",
+            "question": "Trong video này, biển báo tam giác báo hiệu điều gì?",
+            "choices": [
+                "A. Cảnh báo chiều rộng đường hẹp chỉ còn 2.5 mét",
+                "B. Cấm các xe có chiều rộng lớn hơn 2.5 mét đi qua",
+                "C. Cảnh báo chiều cao tĩnh không thực tế là 2.5 mét",
+                "D. Giới hạn chiều cao xe 2.5 mét"
+            ],
+            "video_path": "public_test/videos/50c187fc_806_clip_004_0022_0032_Y.mp4"
+        },
+        {
+            "id": "testa_0167",
+            "question": "Xe di chuyển trên đoạn đường này có được lấn làn hay không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/50c187fc_806_clip_004_0022_0032_Y.mp4"
+        },
+        {
+            "id": "testa_0168",
+            "question": "Trong video này, những biển báo nào cảnh báo các nguy hiểm trên đường? (Chọn đáp án đầy đủ nhất)",
+            "choices": [
+                "A. Biển cảnh báo chiều cao tĩnh không thực tế là 2.5 mét và biển cảnh báo nhiều chỗ ngoặt nguy hiểm liên tiếp",
+                "B. Biển cảnh báo khúc ngoặt nguy hiểm và biển cấm đỗ xe",
+                "C. Biển cảnh báo chướng ngại vật 2.5m và biển báo giới hạn tốc độ",
+                "D. Biển chỉ dẫn đường và biển cảnh báo người đi bộ"
+            ],
+            "video_path": "public_test/videos/1b049863_806_clip_005_0032_0041_Y.mp4"
+        },
+        {
+            "id": "testa_0169",
+            "question": "Trong video này, biển báo tam giác đầu tiên cảnh báo điều gì?",
+            "choices": [
+                "A. Cảnh báo chiều cao tĩnh không thực tế là 2.5 mét",
+                "B. Giới hạn chiều cao phương tiện là 2.5 mét",
+                "C. Cấm các xe rộng hơn 2.5 mét đi qua",
+                "D. Cảnh báo đường cong nguy hiểm phía trước"
+            ],
+            "video_path": "public_test/videos/1b049863_806_clip_005_0032_0041_Y.mp4"
+        },
+        {
+            "id": "testa_0170",
+            "question": "Biển cảnh báo nhiều chỗ ngoặt nguy hiểm chỉ áp dụng cho xe ô tô. Đúng hay Sai?",
+            "choices": [
+                "A. Sai",
+                "B. Đúng"
+            ],
+            "video_path": "public_test/videos/1b049863_806_clip_005_0032_0041_Y.mp4"
+        },
+        {
+            "id": "testa_0171",
+            "question": "Biển báo cấm xuất hiện trong video giành cho loại phương tiện nào?",
+            "choices": [
+                "A. Xe gắn máy",
+                "B. Xe gắn máy, xe ô tô",
+                "C. Xe gắn máy, xe ô tô, xe đạp",
+                "D. Mọi loại phương tiện"
+            ],
+            "video_path": "public_test/videos/e71e43a6_806_clip_006_0041_0049_Y.mp4"
+        },
+        {
+            "id": "testa_0172",
+            "question": "Xe có chiều cao 2m có được lưu thông qua đoạn đường này không?",
+            "choices": [
+                "A. Không",
+                "B. Có"
+            ],
+            "video_path": "public_test/videos/e71e43a6_806_clip_006_0041_0049_Y.mp4"
+        },
+        {
+            "id": "testa_0173",
+            "question": "Trong video này, biển báo nằm bên lề phải có ý nghĩa gì?",
+            "choices": [
+                "A. Cấm đỗ xe",
+                "B. Cho phép đỗ xe tạm thời",
+                "C. Cấm dừng xe",
+                "D. Câm dừng xe và đỗ xe"
+            ],
+            "video_path": "public_test/videos/e71e43a6_806_clip_006_0041_0049_Y.mp4"
+        },
+        {
+            "id": "testa_0174",
+            "question": "Trong video này, có xuất hiện 3 biển báo cấm khác nhau, đúng hay sai?",
+            "choices": [
+                "A. Đúng",
+                "B. Sai"
+            ],
+            "video_path": "public_test/videos/92ec89af_806_clip_005_0034_0042_Y.mp4"
+        },
+        {
+            "id": "testa_0175",
+            "question": "Trong video này, những biển báo nào xuất hiện? (Chọn đáp án đúng và đầy đủ nhất)",
+            "choices": [
+                "A. Biển cấm đỗ xe, biển cấm xe trọng tải trên 2.5 tấn theo khung giờ",
+                "B. Biển cấm đỗ xe, biển cấm xe trọng tải trên 2.5 tấn theo khung giờ, biển cấm dừng xe",
+                "C. Biển cấm đỗ xe và biển giới hạn tốc độ",
+                "D. Biển cấm dừng xe và biển giới hạn tốc độ"
+            ],
+            "video_path": "public_test/videos/92ec89af_806_clip_005_0034_0042_Y.mp4"
+        },
+        {
+            "id": "testa_0176",
+            "question": "Trong video này, biển cấm ở phía trên cùng báo hiệu điều gì?",
+            "choices": [
+                "A. Cấm đỗ xe",
+                "B. Cấm dừng xe",
+                "C. Cho phép đỗ xe tạm thời",
+                "D. Cấm dừng và đỗ"
+            ],
+            "video_path": "public_test/videos/92ec89af_806_clip_005_0034_0042_Y.mp4"
+        },
+        {
+            "id": "testa_0177",
+            "question": "Xe có được phép lấn làn khi đã di chuyển lên cầu không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/89e03e22_806_clip_006_0042_0048_Y.mp4"
+        },
+        {
+            "id": "testa_0178",
+            "question": "Trong video này, biển cảnh báo hình tam giác ở phía trên có ý nghĩa gì?",
+            "choices": [
+                "A. Cảnh báo sắp đến đoạn đường một chiều",
+                "B. Cảnh báo có chướng ngại vật trên đường phía trước",
+                "C. Cảnh báo có xe ưu tiên đi ngược chiều",
+                "D. Cảnh báo công trường đang thi công trên đường"
+            ],
+            "video_path": "public_test/videos/89e03e22_806_clip_006_0042_0048_Y.mp4"
+        },
+        {
+            "id": "testa_0179",
+            "question": "Trong video này, người lái xe có được phép chuyển làn đường để vượt các phương tiện đang đi phía trước hay không?",
+            "choices": [
+                "A. Không được phép vì làn bên trái là làn đường ngược chiều.",
+                "B. Được phép vì vạch đứt nét màu trắng cho phép chuyển làn.",
+                "C. Không được phép vì đang có quá nhiều xe máy đi phía trướ",
+                "D. Được phép nhưng phải bật đèn khẩn cấp."
+            ],
+            "video_path": "public_test/videos/7ed17aab_806_clip_004_0025_0033_Y.mp4"
+        },
+        {
+            "id": "testa_0180",
+            "question": "trong video này biển báo bên phải đường là biển báo nguy hiểm, đúng hay sai?",
+            "choices": [
+                "A. Đúng",
+                "B. Sai"
+            ],
+            "video_path": "public_test/videos/7ed17aab_806_clip_004_0025_0033_Y.mp4"
+        },
+        {
+            "id": "testa_0181",
+            "question": "Những loại biển báo nào xuất hiện trong video?",
+            "choices": [
+                "A. Biển cấm, biển cảnh báo",
+                "B. Biển cấm, biển cảnh báo, biển hiệu lệnh",
+                "C. Biển cấm, biển cảnh báo, biển hiệu lệnh, biển phụ",
+                "D. Biển cấm, biển cảnh báo, biển phụ"
+            ],
+            "video_path": "public_test/videos/71818dcf_806_clip_007_0053_0060_Y.mp4"
+        },
+        {
+            "id": "testa_0182",
+            "question": "Trong video có xuất hiện biển báo hiệu lệnh không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/71818dcf_806_clip_007_0053_0060_Y.mp4"
+        },
+        {
+            "id": "testa_0183",
+            "question": "Trong video có xuất hiện biển báo hiệu lệnh không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/df465290_985_clip_001_0000_0005_N.mp4"
+        },
+        {
+            "id": "testa_0184",
+            "question": "Trong video này, nếu có biển báo quy định hạn chế tốc độ tối đ",
+            "choices": [
+                "A. Chỉ áp dụng cho các xe ô tô cá nhân.",
+                "B. Áp dụng chung cho tất cả các loại phương tiện.",
+                "C. Chỉ áp dụng cho xe mô tô và xe gắn máy.",
+                "D. Chỉ áp dụng cho xe tải và xe buýt."
+            ],
+            "video_path": "public_test/videos/df465290_985_clip_001_0000_0005_N.mp4"
+        },
+        {
+            "id": "testa_0185",
+            "question": "Trong video này, căn cứ vào mật độ phương tiện và vạch phân làn, tài xế ô tô phải ưu tiên hành động nào sau đây?",
+            "choices": [
+                "A. Sử dụng còi liên tục yêu cầu xe máy tránh đường để tăng tố",
+                "B. Duy trì tốc độ tối đa và di chuyển sát vạch phân cách giữ",
+                "C. Giảm tốc độ, giữ khoảng cách và sẵn sàng nhường khi cần thiết để an toàn.",
+                "D. Chuyển sang làn bên phải ngay lập tức để vượt các xe máy phía trướ"
+            ],
+            "video_path": "public_test/videos/08e895d7_985_clip_003_0010_0017_N.mp4"
+        },
+        {
+            "id": "testa_0186",
+            "question": "Trong video, tại nút giao nếu muốn đến Quận 4 thì đi theo hướng nào?",
+            "choices": [
+                "A. Đi thẳng",
+                "B. Rẽ trái",
+                "C. Rẽ phải",
+                "D. Vòng ngược lại"
+            ],
+            "video_path": "public_test/videos/08e895d7_985_clip_003_0010_0017_N.mp4"
+        },
+        {
+            "id": "testa_0187",
+            "question": "Trong video, hướng đi thẳng có phải đến Quận 4 không?",
+            "choices": [
+                "A. Đúng",
+                "B. Sai"
+            ],
+            "video_path": "public_test/videos/08e895d7_985_clip_003_0010_0017_N.mp4"
+        },
+        {
+            "id": "testa_0188",
+            "question": "Trong video này, phương tiện bạn đang lái có bị cấm lưu thông trên đoạn đường này theo biển báo trên cùng không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/3f779cae_985_clip_007_0042_0047_N.mp4"
+        },
+        {
+            "id": "testa_0189",
+            "question": "Ý nghĩa 3 biển báo tròn bên phải là gì?",
+            "choices": [
+                "A. Cấm xe tải trên 2,5 tấn",
+                "B. Cấm xe tải trên 2,5 tấn, trọng lượng tối đa 13 tấn, chiều cao tối thiểu 3,5 mét",
+                "C. Cấm xe tải trên 2,5 tấn, chiều cao tối đa 3,5 mét",
+                "D. Cấm xe tải trên 2,5 tấn, trọng lượng tối đa 13 tấn, chiều cao tối đa 3,5 mét"
+            ],
+            "video_path": "public_test/videos/3f779cae_985_clip_007_0042_0047_N.mp4"
+        },
+        {
+            "id": "testa_0190",
+            "question": "Trong video này, quyết định vượt phương tiện màu trắng phía trước ngay lập tức là hợp lệ hay vi phạm quy tắc phân làn đường hiện tại?",
+            "choices": [
+                "A. Hợp lệ, miễn là vượt nhanh và an toàn.",
+                "B. Vi phạm, vạch phân làn là nét liền không được đè.",
+                "C. Hợp lệ, miễn là không đè vạch.",
+                "D. Vi phạm, chỉ được vượt khi phương tiện màu trắng đi chậm."
+            ],
+            "video_path": "public_test/videos/3f779cae_985_clip_007_0042_0047_N.mp4"
+        },
+        {
+            "id": "testa_0191",
+            "question": "Trong video này, căn cứ vào vạch phân làn hướng dẫn phía trướ",
+            "choices": [
+                "A. Tăng tốc để vượt qua các phương tiện khá",
+                "B. Duy trì tốc độ và chờ đợi tín hiệu đèn.",
+                "C. Chuẩn bị nhập làn hoặc giảm tốc độ khi hết vạch mũi tên.",
+                "D. Di chuyển sang sát lề phải ngay lập tứ"
+            ],
+            "video_path": "public_test/videos/2defe193_985_clip_002_0009_0019_N.mp4"
+        },
+        {
+            "id": "testa_0192",
+            "question": "Trong video này, khi tiến gần đến nhóm xe hai bánh, hành vi lái xe hợp lý nhất theo quy tắc an toàn là gì?",
+            "choices": [
+                "A. Bóp còi lớn và tăng tốc vượt nhanh để giữ khoảng cách.",
+                "B. Giảm tốc độ và duy trì khoảng cách bên an toàn khi đi qu",
+                "C. Bật đèn pha nháy liên tục để cảnh báo họ tránh đường.",
+                "D. Giữ nguyên tốc độ và đi sát vạch phân làn bên trái."
+            ],
+            "video_path": "public_test/videos/2defe193_985_clip_002_0009_0019_N.mp4"
+        },
+        {
+            "id": "testa_0193",
+            "question": "Trong video này, có được phép dừng xe ở vị trí hiện tại trên cầu để giải quyết công việc cá nhân không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/2defe193_985_clip_002_0009_0019_N.mp4"
+        },
+        {
+            "id": "testa_0194",
+            "question": "Trong video, xe con màu trắng có được rẽ phải không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/b7a4c719_985_clip_004_0024_0033_N.mp4"
+        },
+        {
+            "id": "testa_0195",
+            "question": "Trong video này, vạch kẻ đường và làn bên phải cho phép người lái xe thực hiện hành động gì?",
+            "choices": [
+                "A. Chỉ được phép vượt các xe máy, không được vượt ô tô.",
+                "B. Chuyển sang làn bên phải khi điều kiện cho phép và an toàn.",
+                "C. Dừng xe tạm thời trên vạch để đón trả khách.",
+                "D. Phải giữ khoảng cách tối thiểu 50 mét với xe phía trướ"
+            ],
+            "video_path": "public_test/videos/f7fd5646_985_clip_005_0033_0042_N.mp4"
+        },
+        {
+            "id": "testa_0196",
+            "question": "Trong video xuất hiện các biển báo nào sau đây? (Chọn đáp án đúng nhất)",
+            "choices": [
+                "A. Biển cấm dừng và đỗ, Biển cấm rẽ phải, Biển cấm quay đầu, Biển hiệu lệnh hướng đi thẳng phải theo",
+                "B. Biển cấm rẽ phải, Biển cấm quay đầu, Biển hiệu lệnh hướng đi thẳng phải theo, Biển chỉ dẫn trạm săn",
+                "C. Biển hiệu lệnh hướng đi thẳng phải theo, Biển cấm dừng và đỗ, Biển cấm đi ngược chiều",
+                "D. Biển cấm vượt, Biển cấm rẽ phải, Biển cấm quay đầu, Biển hiệu lệnh hướng đi thẳng phải theo"
+            ],
+            "video_path": "public_test/videos/f7fd5646_985_clip_005_0033_0042_N.mp4"
+        },
+        {
+            "id": "testa_0197",
+            "question": "Trong video, xe tải chuyển làn đúng luật không?",
+            "choices": [
+                "A. Đúng",
+                "B. Sai"
+            ],
+            "video_path": "public_test/videos/b0c4a01c_985_clip_006_0042_0047_N.mp4"
+        },
+        {
+            "id": "testa_0198",
+            "question": "Trong video này, vạch kẻ đường nét đứt bên phải cho phép người lái xe ô tô thực hiện hành động nào sau đây khi đảm bảo an toàn?",
+            "choices": [
+                "A. Được phép chuyển sang làn đường bên phải để tiếp tục di chuyển.",
+                "B. Dừng xe tạm thời trên làn đường đó để nghe điện thoại.",
+                "C. Chỉ được đi vào làn đó khi không có xe máy.",
+                "D. Bắt buộc phải chuyển sang làn đó tại giao lộ tiếp theo."
+            ],
+            "video_path": "public_test/videos/46685257_985_clip_007_0047_0052_N.mp4"
+        },
+        {
+            "id": "testa_0199",
+            "question": "Trong video có xuất hiện biển báo hiệu lệnh không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/46685257_985_clip_007_0047_0052_N.mp4"
+        },
+        {
+            "id": "testa_0200",
+            "question": "Trong video này, cụm biển báo phía trước bên phải yêu cầu người lái xe phải chuẩn bị cho tình huống giao thông cụ thể nào sắp xảy ra?",
+            "choices": [
+                "A. Một đoạn đường đang thi công trong phạm vi 30 mét tới.",
+                "B. Hết khu vực đông dân cư sau 30 mét nữ",
+                "C. Từ nơi có biển báo đến 30 mét nữa là đường có gờ giảm tốc và người đi bộ cắt ngang.",
+                "D. Giao nhau với đường sắt có rào chắn cách 30 mét."
+            ],
+            "video_path": "public_test/videos/6c6fa611_985_clip_001_0000_0008_N.mp4"
+        },
+        {
+            "id": "testa_0201",
+            "question": "Những biển báo nào xuất hiện trong video?",
+            "choices": [
+                "A. Biển cảnh báo",
+                "B. Biển cảnh báo, biển phụ",
+                "C. Biển cảnh báo, biển phụ, biển chỉ dẫn",
+                "D. Biển phụ, biển chỉ dẫn"
+            ],
+            "video_path": "public_test/videos/6c6fa611_985_clip_001_0000_0008_N.mp4"
+        },
+        {
+            "id": "testa_0202",
+            "question": "Trong video có xuất hiện biển báo hiệu lệnh không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/6c6fa611_985_clip_001_0000_0008_N.mp4"
+        },
+        {
+            "id": "testa_0203",
+            "question": "Trong video này, để bắt đầu quy trình vượt chiếc xe tải phía trước một cách hợp lệ, thao tác nào sau đây cần được thực hiện đầu tiên?",
+            "choices": [
+                "A. Tăng tốc ngay lập tức để rút ngắn khoảng cách với xe tải.",
+                "B. Bật tín hiệu báo rẽ trái ngay lập tức rồi chuyển làn.",
+                "C. Nháy đèn pha liên tục để yêu cầu xe tải nhường đường.",
+                "D. Quan sát gương chiếu hậu, kiểm tra điểm mù và bật tín hiệu báo hướng."
+            ],
+            "video_path": "public_test/videos/b194990b_985_clip_002_0008_0015_N.mp4"
+        },
+        {
+            "id": "testa_0204",
+            "question": "Trong video này, khi tiến đến gần vị trí có biển báo chỉ dẫn màu xanh bên phải, người lái xe cần phải thực hiện hành động gì?",
+            "choices": [
+                "A. Nhường đường cho người đi bộ đang hoặc sắp sang đường.",
+                "B. Bấm còi để cảnh báo người đi bộ không qua đường.",
+                "C. Tăng tốc độ để nhanh chóng đi qua khu vực này.",
+                "D. Dừng lại hoàn toàn bất kể có người đi bộ hay không."
+            ],
+            "video_path": "public_test/videos/b194990b_985_clip_002_0008_0015_N.mp4"
+        },
+        {
+            "id": "testa_0205",
+            "question": "Trong video này, người lái xe có được phép vượt xe khác khi đủ điều kiện an toàn không?",
+            "choices": [
+                "A. Không",
+                "B. Có"
+            ],
+            "video_path": "public_test/videos/b194990b_985_clip_002_0008_0015_N.mp4"
+        },
+        {
+            "id": "testa_0206",
+            "question": "Trong video, biển báo cấm đỗ xe quy định trong khung giờ nào?",
+            "choices": [
+                "A. 6:00 - 9:00, 19:00 - 21:00",
+                "B. 6:00 - 9:00, 16:00 - 19:00",
+                "C. 9:00 - 16:00, 19:00 - 21:00",
+                "D. 9:00 - 16:00, 19:00 - 6:00"
+            ],
+            "video_path": "public_test/videos/cf8ebc5a_985_clip_005_0029_0036_N.mp4"
+        },
+        {
+            "id": "testa_0207",
+            "question": "Trong video, có biển báo hiệu lệnh không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/cf8ebc5a_985_clip_005_0029_0036_N.mp4"
+        },
+        {
+            "id": "testa_0208",
+            "question": "Trong video, khung thời gian nào có thể dừng xe có giới hạn thời gian?",
+            "choices": [
+                "A. 9:00 - 16:00",
+                "B. 9:00 - 16:00, 19:00 - 23:00",
+                "C. 9:00 - 16:00, 19:00 - 23:00, 1:00 - 7:00",
+                "D. 9:00 - 16:00, 1:00 - 7:00"
+            ],
+            "video_path": "public_test/videos/cf8ebc5a_985_clip_005_0029_0036_N.mp4"
+        },
+        {
+            "id": "testa_0209",
+            "question": "Trong video, gồm các loại biển báo nào?",
+            "choices": [
+                "A. Biển báo cấm, biển hiệu lệnh",
+                "B. Biển báo cấm, biển hiệu lệnh, biển cảnh báo nguy hiểm",
+                "C. Biển báo cấm, biển hiệu lệnh, biển cảnh báo nguy hiểm, biển báo phụ",
+                "D. Biển báo cấm, biển chỉ dẫn, biển cảnh báo nguy hiểm, biển báo phụ"
+            ],
+            "video_path": "public_test/videos/7d106c60_985_clip_008_0048_0055_N.mp4"
+        },
+        {
+            "id": "testa_0210",
+            "question": "Trong video, biển báo bên phải thuộc loại biển hiệu lệnh, đúng hay sai?",
+            "choices": [
+                "A. Đúng",
+                "B. Sai"
+            ],
+            "video_path": "public_test/videos/7d106c60_985_clip_008_0048_0055_N.mp4"
+        },
+        {
+            "id": "testa_0211",
+            "question": "Trong video, không xác định có loại biển báo nào?",
+            "choices": [
+                "A. Biển báo phụ",
+                "B. Biển cảnh báo nguy hiểm",
+                "C. Biển hiệu lệnh",
+                "D. Biển chỉ dẫn"
+            ],
+            "video_path": "public_test/videos/7d106c60_985_clip_008_0048_0055_N.mp4"
+        },
+        {
+            "id": "testa_0212",
+            "question": "Trong video, khung thời gian nào xe sơ-mi rơ-moóc có trọng lượng trên 2,5 tấn có thể lưu thông?",
+            "choices": [
+                "A. 1:00 - 6:00, 23:00 - 1:00",
+                "B. 1:00 - 6:00, 22:00 - 1:00",
+                "C. 1:00 - 6:00, 13:00 - 15:00, 22:00 - 1:00",
+                "D. 1:00 - 6:00, 13:00 - 15:00"
+            ],
+            "video_path": "public_test/videos/e9a1fa6f_985_clip_009_0055_0060_N.mp4"
+        },
+        {
+            "id": "testa_0213",
+            "question": "Trong video, có loại biển báo hiệu lệnh không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/e9a1fa6f_985_clip_009_0055_0060_N.mp4"
+        },
+        {
+            "id": "testa_0214",
+            "question": "Trong video, khoảng cách bao nhiêu kể từ vị trí cắm biển cảnh báo thường có người đi qua đường?",
+            "choices": [
+                "A. 50m",
+                "B. 100m",
+                "C. 200m",
+                "D. 30m"
+            ],
+            "video_path": "public_test/videos/e9a1fa6f_985_clip_009_0055_0060_N.mp4"
+        },
+        {
+            "id": "testa_0215",
+            "question": "Trong video, 2 biển báo tam giác và chữ nhật có ý nghĩa gì?",
+            "choices": [
+                "A. Cảnh báo đường có gồ giảm tốc",
+                "B. Cảnh báo đường có gồ giảm tố",
+                "C. Cảnh báo đường có gồ giảm tố",
+                "D. Cảnh báo đường có gồ giảm tố"
+            ],
+            "video_path": "public_test/videos/8d1fb540_792_clip_001_0000_0007_N.mp4"
+        },
+        {
+            "id": "testa_0216",
+            "question": "Trong video, biển báo tròn viền đỏ có ý nghĩa gì?",
+            "choices": [
+                "A. Biển cấm rẽ trái",
+                "B. Biển cấm rẽ trái cho phương tiện ô tô",
+                "C. Biển cấm quay xe cho phương tiện ô tô",
+                "D. Biển cấm quay xe cho phương tiện ô tô trong khung thời gian quy định"
+            ],
+            "video_path": "public_test/videos/8d1fb540_792_clip_001_0000_0007_N.mp4"
+        },
+        {
+            "id": "testa_0217",
+            "question": "Trong video, có biển báo phụ không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/8d1fb540_792_clip_001_0000_0007_N.mp4"
+        },
+        {
+            "id": "testa_0218",
+            "question": "Trong video, trên tuyến đường phương tuyện đang di chuyển, khung thời gian nào cho phép phương tiện có thể dừng và đỗ xe?",
+            "choices": [
+                "A. 9:00 - 16:00",
+                "B. 9:00 - 16:00, 19:00 - 23:00",
+                "C. 9:00 - 16:00, 19:00 - 23:00, 1:00 - 7:00",
+                "D. 9:00 - 16:00, 1:00 - 7:00"
+            ],
+            "video_path": "public_test/videos/81fb18b3_792_clip_006_0037_0045_N.mp4"
+        },
+        {
+            "id": "testa_0219",
+            "question": "Trong video, có biển báo chỉ dẫn hay không?",
+            "choices": [
+                "A. Không",
+                "B. Có"
+            ],
+            "video_path": "public_test/videos/81fb18b3_792_clip_006_0037_0045_N.mp4"
+        },
+        {
+            "id": "testa_0220",
+            "question": "Trong video, trên tuyến đường phương tiện đang di chuyển, những loại phương tiện nào được quy định cấm lưu thông theo khung giờ quy định?",
+            "choices": [
+                "A. Xe đạp, xe khách",
+                "B. Xe đạp, xe ba bánh",
+                "C. Xe ba bánh, xe thô sơ",
+                "D. Xe thô sơ, xe khách"
+            ],
+            "video_path": "public_test/videos/81fb18b3_792_clip_006_0037_0045_N.mp4"
+        },
+        {
+            "id": "testa_0221",
+            "question": "Trong video, khoảng cách bao nhiêu kể từ vị trí cắm biển cảnh báo thường có người đi qua đường?",
+            "choices": [
+                "A. 50m",
+                "B. 100m",
+                "C. 200m",
+                "D. 40m"
+            ],
+            "video_path": "public_test/videos/a5b5cdc2_792_clip_008_0055_0060_N.mp4"
+        },
+        {
+            "id": "testa_0222",
+            "question": "Trong video, 3 biển báo bên phải có ý nghĩa gì?",
+            "choices": [
+                "A. Cảnh báo thường có người đi qua đường",
+                "B. Cảnh báo thường có người đi qua đường, và khu vực đường có gồ giảm tốc",
+                "C. Cảnh báo thường có người đi qua đường, và khu vực đường có gồ giảm tốc trong 40m tiếp theo",
+                "D. Cảnh báo thường có người đi qua đường trong 40m tiếp theo"
+            ],
+            "video_path": "public_test/videos/a5b5cdc2_792_clip_008_0055_0060_N.mp4"
+        },
+        {
+            "id": "testa_0223",
+            "question": "Trong video, có biển báo chỉ dẫn không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/a5b5cdc2_792_clip_008_0055_0060_N.mp4"
+        },
+        {
+            "id": "testa_0224",
+            "question": "Trong video, biển báo tròn viền đỏ có ý nghĩa gì?",
+            "choices": [
+                "A. Biển cấm quay xe",
+                "B. Biển cấm quay xe cho phương tiện ô tô",
+                "C. Biển cấm quay xe cho phương tiện ô tô trong khung giờ quy định",
+                "D. Biển cấm quay xe cho trong khung giờ quy định"
+            ],
+            "video_path": "public_test/videos/28a39779_792_clip_001_0000_0007_N.mp4"
+        },
+        {
+            "id": "testa_0225",
+            "question": "Trong video, biển báo tam giác là gì?",
+            "choices": [
+                "A. Cảnh báo có công trình",
+                "B. Cảnh báo đường xuống cấp",
+                "C. Cảnh báo đường có gồ giảm tốc",
+                "D. Cảnh báo đường thường xuyên xảy ra tai nạn"
+            ],
+            "video_path": "public_test/videos/28a39779_792_clip_001_0000_0007_N.mp4"
+        },
+        {
+            "id": "testa_0226",
+            "question": "Trong video, có biển báo hiệu lệnh không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/28a39779_792_clip_001_0000_0007_N.mp4"
+        },
+        {
+            "id": "testa_0227",
+            "question": "Trong video, biển tròn bên phải có ý nghĩa gì?",
+            "choices": [
+                "A. Biển cảnh báo đường 1 chiều",
+                "B. Biển cấm đi ngược chiều",
+                "C. Biển cấm dừng đỗ xe",
+                "D. Biển cấm đỗ xe"
+            ],
+            "video_path": "public_test/videos/d4f8fd72_792_clip_002_0007_0013_N.mp4"
+        },
+        {
+            "id": "testa_0228",
+            "question": "Trong video, biển báo tròn viền đỏ có ý nghĩa gì?",
+            "choices": [
+                "A. Biển cấm quay xe",
+                "B. Biển cấm quay xe cho phương tiện ô tô",
+                "C. Biển cấm quay xe cho phương tiện ô tô trong khung giờ quy định",
+                "D. Biển cấm quay xe cho trong khung giờ quy định"
+            ],
+            "video_path": "public_test/videos/d4f8fd72_792_clip_002_0007_0013_N.mp4"
+        },
+        {
+            "id": "testa_0229",
+            "question": "Trong video, có biển báo phụ không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/d4f8fd72_792_clip_002_0007_0013_N.mp4"
+        },
+        {
+            "id": "testa_0230",
+            "question": "Trong video, khung thời gian nào có thể dừng xe có giới hạn thời gian?",
+            "choices": [
+                "A. 9:00 - 16:00",
+                "B. 9:00 - 16:00, 19:00 - 23:00",
+                "C. 9:00 - 16:00, 19:00 - 23:00, 1:00 - 7:00",
+                "D. 9:00 - 16:00, 1:00 - 7:00"
+            ],
+            "video_path": "public_test/videos/53ac2ab9_792_clip_003_0013_0022_N.mp4"
+        },
+        {
+            "id": "testa_0231",
+            "question": "Trong video, có biển báo cấm dừng đỗ xe 24/24, đúng hay sai?",
+            "choices": [
+                "A. Đúng",
+                "B. Sai"
+            ],
+            "video_path": "public_test/videos/53ac2ab9_792_clip_003_0013_0022_N.mp4"
+        },
+        {
+            "id": "testa_0232",
+            "question": "Trong video, biển báo tam giác phía trên có ý nghĩa gì?",
+            "choices": [
+                "A. Biển cấm quẹo phải",
+                "B. Biển cảnh báo đường giao nhau",
+                "C. Biển cảnh báo đường hẹp",
+                "D. Biển cảnh báo chỗ ngoặt nguy hiểm"
+            ],
+            "video_path": "public_test/videos/53ac2ab9_792_clip_003_0013_0022_N.mp4"
+        },
+        {
+            "id": "testa_0233",
+            "question": "Trong video, cấm tất cả phương tiện quay xe trong thời gian quy định, đúng hay sai?",
+            "choices": [
+                "A. Đúng",
+                "B. Sai"
+            ],
+            "video_path": "public_test/videos/17be3111_792_clip_005_0027_0037_N.mp4"
+        },
+        {
+            "id": "testa_0234",
+            "question": "Trong video, biển báo tròn viền đỏ có ý nghĩa gì?",
+            "choices": [
+                "A. Biển cấm quay xe",
+                "B. Biển cấm quay xe cho phương tiện ô tô",
+                "C. Biển cấm quay xe cho phương tiện ô tô trong khung giờ quy định",
+                "D. Biển cấm quay xe cho trong khung giờ quy định"
+            ],
+            "video_path": "public_test/videos/17be3111_792_clip_005_0027_0037_N.mp4"
+        },
+        {
+            "id": "testa_0235",
+            "question": "Trong video, loại biển báo nào không xuất hiện?",
+            "choices": [
+                "A. Biển cấm",
+                "B. Biển báo phụ",
+                "C. Biển hiệu lệnh",
+                "D. Biển chỉ dẫn"
+            ],
+            "video_path": "public_test/videos/17be3111_792_clip_005_0027_0037_N.mp4"
+        },
+        {
+            "id": "testa_0236",
+            "question": "Trong video, biển báo cấm đỗ xe quy định trong khung giờ nào?",
+            "choices": [
+                "A. 6:00 - 9:00, 19:00 - 21:00",
+                "B. 6:00 - 9:00, 16:00 - 19:00",
+                "C. 9:00 - 16:00, 19:00 - 21:00",
+                "D. 9:00 - 16:00, 19:00 - 6:00"
+            ],
+            "video_path": "public_test/videos/2702878b_792_clip_006_0037_0047_N.mp4"
+        },
+        {
+            "id": "testa_0237",
+            "question": "Trong video, khung thời gian nào có thể dừng xe có giới hạn thời gian?",
+            "choices": [
+                "A. 9:00 - 16:00",
+                "B. 9:00 - 16:00, 19:00 - 23:00",
+                "C. 9:00 - 16:00, 19:00 - 23:00, 1:00 - 7:00",
+                "D. 9:00 - 16:00, 1:00 - 7:00"
+            ],
+            "video_path": "public_test/videos/2702878b_792_clip_006_0037_0047_N.mp4"
+        },
+        {
+            "id": "testa_0238",
+            "question": "Trong video, xe tải có thuộc phương tiện cấm lưu thông trong thời gian quy định, đúng hay sai?",
+            "choices": [
+                "A. Đúng",
+                "B. Sai"
+            ],
+            "video_path": "public_test/videos/2702878b_792_clip_006_0037_0047_N.mp4"
+        },
+        {
+            "id": "testa_0239",
+            "question": "Những biển báo cấm nào xuất hiện trong video? Chọn đáp án đúng và đầy đủ nhất.",
+            "choices": [
+                "A. Biển cấm ô tô rẽ trái, biển cấm vượt",
+                "B. Biển cấm đỗ xe, biển cấm ô tô quay đầu",
+                "C. Biển cấm ô tô quay đầu, biển cấm ô tô rẽ trái",
+                "D. Biển cấm ô tô rẽ phải, biển cấm đi ngược chiều"
+            ],
+            "video_path": "public_test/videos/8a175dfe_792_clip_003_0016_0022_N.mp4"
+        },
+        {
+            "id": "testa_0240",
+            "question": "Trong video này, biển báo nào xuất hiện đầu tiên?",
+            "choices": [
+                "A. Biển cấm rẽ trái",
+                "B. Biển cấm ô tô quay đầu",
+                "C. Biển cấm đỗ xe",
+                "D. Biển cấm vượt"
+            ],
+            "video_path": "public_test/videos/8a175dfe_792_clip_003_0016_0022_N.mp4"
+        },
+        {
+            "id": "testa_0241",
+            "question": "Biển cấm ô tô quay đầu xuất hiện trong video có áp dụng cho xe khách hay không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/8a175dfe_792_clip_003_0016_0022_N.mp4"
+        },
+        {
+            "id": "testa_0242",
+            "question": "Trong video, biển cấm đỗ xe có hiệu lực trong khung giờ nào?",
+            "choices": [
+                "A. Từ 7h đến 10h và từ 17h đến 20h",
+                "B. Từ 8h đến 11h và từ 18h đến 21h",
+                "C. Từ 9h đến 16h và từ 19h đến 6h",
+                "D. Cấm đỗ cả ngày, không theo khung giờ"
+            ],
+            "video_path": "public_test/videos/18c8a616_792_clip_002_0009_0015_N.mp4"
+        },
+        {
+            "id": "testa_0243",
+            "question": "Trong video, những biển báo nào xuất hiện? Chọn đáp án đúng và đầy đủ nhất.",
+            "choices": [
+                "A. Biển cấm xe 3 bánh và xe thô sơ, biển cấm xe container, biển cấm dừng đỗ xe, biển cấm đỗ , biển chỉ dẫn đi bên phải, biển cấm đi ngược chiều",
+                "B. Biển cấm xe máy, biển cấm ô tô, biển cấm đỗ xe, biển chỉ dẫn quay đầu xe, biển cấm rẽ trái, biển cấm dừng đỗ xe",
+                "C. Biển cấm xe container, biển cấm xe con, biển cấm đi ngược chiều, biển chỉ dẫn rẽ phải, biển cấm dừng đỗ, biển cấm đỗ xe",
+                "D. Biển cấm xe buýt, biển cấm ô tô quay đầu, biển cấm rẽ phải, biển chỉ dẫn đi thẳng, biển cấm xe đạp, biển cấm dừng đỗ xe"
+            ],
+            "video_path": "public_test/videos/18c8a616_792_clip_002_0009_0015_N.mp4"
+        },
+        {
+            "id": "testa_0244",
+            "question": "Trong video, sau khi đi qua nút giao, xe con có thể dừng xe vào lúc 22h đúng không?",
+            "choices": [
+                "A. Đúng",
+                "B. Sai"
+            ],
+            "video_path": "public_test/videos/18c8a616_792_clip_002_0009_0015_N.mp4"
+        },
+        {
+            "id": "testa_0245",
+            "question": "Trong video, xe khác có thể dừng tại khu vực có biển báo nền xanh trắng và vạch vàng gấp khúc không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/93dfd907_792_clip_007_0042_0052_N.mp4"
+        },
+        {
+            "id": "testa_0246",
+            "question": "Trong video, biển cảnh báo chiều cao tối đa cho phép là bao nhiêu?",
+            "choices": [
+                "A. 2.0m",
+                "B. 2.5m",
+                "C. 2.7m",
+                "D. 3.0m"
+            ],
+            "video_path": "public_test/videos/93dfd907_792_clip_007_0042_0052_N.mp4"
+        },
+        {
+            "id": "testa_0247",
+            "question": "Nội dung của các biển báo cấm và nguy hiểm trong video là gì?",
+            "choices": [
+                "A. Biển cấm dừng đỗ, biển cấm đi ngược chiều, biển cấm xe tải, biển giới hạn chiều cao",
+                "B. Biển cấm rẽ trái, biển cấm xe tải, biển cấm quay đầu, biển cấm đi ngược chiều",
+                "C. Biển cấm dừng đỗ, biển cấm xe khách, biển cấm xe máy, biển giới hạn tốc độ",
+                "D. Biển cấm đi ngược chiều, biển cấm xe thô sơ, biển cấm đỗ xe, biển cấm vượt"
+            ],
+            "video_path": "public_test/videos/93dfd907_792_clip_007_0042_0052_N.mp4"
+        },
+        {
+            "id": "testa_0248",
+            "question": "Ý nghĩa 2 biển báo trong video là gì?",
+            "choices": [
+                "A. Biển cảnh báo giới hạn chiều cao, biển cảnh báo bước ngoặt nguy hiểm",
+                "B. Biển cảnh báo đường trơn trượt, biển cảnh báo bước ngoặt nguy hiểm",
+                "C. Biển cảnh báo giao nhau với đường ưu tiên, biển cảnh báo giới hạn chiều cao",
+                "D. Biển cảnh báo đường hẹp, biển cảnh báo công trường phía trước"
+            ],
+            "video_path": "public_test/videos/0d77c5a0_792_clip_008_0052_0060_N.mp4"
+        },
+        {
+            "id": "testa_0249",
+            "question": "Trong video, giới hạn chiều cao được cảnh báo là bao nhiêu?",
+            "choices": [
+                "A. 2.0 mét",
+                "B. 2.2 mét",
+                "C. 2.5 mét",
+                "D. 2.7 mét"
+            ],
+            "video_path": "public_test/videos/0d77c5a0_792_clip_008_0052_0060_N.mp4"
+        },
+        {
+            "id": "testa_0250",
+            "question": "Phương tiện có chiều cao 3m có thể đi qua đoạn đường trong video không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/0d77c5a0_792_clip_008_0052_0060_N.mp4"
+        },
+        {
+            "id": "testa_0251",
+            "question": "Trong video, xe con có được lấn qua làn bên trái để vượt xe nếu có xe con phía trước?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/4027ab7d_792_clip_001_0000_0009_N.mp4"
+        },
+        {
+            "id": "testa_0252",
+            "question": "Trong video, biển tam giác cảnh báo có ý nghĩa gì?",
+            "choices": [
+                "A. Cảnh báo đường trơn trượt",
+                "B. Cảnh báo có người đi bộ cắt ngang",
+                "C. Cảnh báo đoạn đường có bước ngoặt nguy hiểm",
+                "D. Cảnh báo giao nhau với đường ưu tiên"
+            ],
+            "video_path": "public_test/videos/4027ab7d_792_clip_001_0000_0009_N.mp4"
+        },
+        {
+            "id": "testa_0253",
+            "question": "Trong video, những biển báo nào xuất hiện? Chọn đáp án đúng và đầy đủ nhất.",
+            "choices": [
+                "A. Biển cấm rẽ trái và biển chỉ dẫn đi bên phải",
+                "B. Biển cấm đi ngược chiều và biển cấm quay đầu",
+                "C. Biển cấm đi ngược chiều và biển chỉ dẫn đi bên phải",
+                "D. Biển cấm quay đầu và biển cấm dừng đỗ"
+            ],
+            "video_path": "public_test/videos/a5769411_792_clip_002_0009_0014_N.mp4"
+        },
+        {
+            "id": "testa_0254",
+            "question": "Trong video, hai biển báo hình tròn thuộc cùng 1 nhóm biển báo đúng không?",
+            "choices": [
+                "A. Đúng",
+                "B. Sai"
+            ],
+            "video_path": "public_test/videos/a5769411_792_clip_002_0009_0014_N.mp4"
+        },
+        {
+            "id": "testa_0255",
+            "question": "Trong video, biển báo được đặt ở trên báo hiệu điều gì?",
+            "choices": [
+                "A. Cấm rẽ trái",
+                "B. Cấm quay đầu xe",
+                "C. Cấm đi ngược chiều",
+                "D. Cấm đỗ xe"
+            ],
+            "video_path": "public_test/videos/a5769411_792_clip_002_0009_0014_N.mp4"
+        },
+        {
+            "id": "testa_0256",
+            "question": "Biển cấm xe 3 bánh và xe thô sơ trong video có hiệu lực trong khung giờ nào?",
+            "choices": [
+                "A. Từ 6 giờ đến 12 giờ và từ 14 giờ đến 20 giờ",
+                "B. Từ 5 giờ đến 13 giờ và từ 16 giờ đến 22 giờ",
+                "C. Từ 7 giờ đến 15 giờ và từ 17 giờ đến 23 giờ",
+                "D. Từ 4 giờ đến 12 giờ và từ 15 giờ đến 21 giờ"
+            ],
+            "video_path": "public_test/videos/6160a6b4_792_clip_003_0014_0022_N.mp4"
+        },
+        {
+            "id": "testa_0257",
+            "question": "Biển cấm xe 3 bánh và xe thô sơ trong video có hiệu lực từ 6 giờ đến 12 giờ và từ 14 giờ đến 20 giờ, đúng hay sai?",
+            "choices": [
+                "A. Đúng",
+                "B. Sai"
+            ],
+            "video_path": "public_test/videos/6160a6b4_792_clip_003_0014_0022_N.mp4"
+        },
+        {
+            "id": "testa_0258",
+            "question": "Trong video, những biển báo nào xuất hiện? Chọn đáp án đúng và đầy đủ nhất.",
+            "choices": [
+                "A. Biển cấm ô tô rẽ trái, biển cấm xe tải, biển cấm quay đầu",
+                "B. Biển cấm đi ngược chiều, biển cấm đỗ xe và cấm dừng đỗ, biển chỉ dẫn đi bên phải",
+                "C. Biển cấm đi ngược chiều, biển chỉ dẫn đi bên phải, biển cấm xe 3 bánh và xe thô sơ",
+                "D. Biển cấm quay đầu, biển cấm đi ngược chiều, biển cấm xe tải"
+            ],
+            "video_path": "public_test/videos/6160a6b4_792_clip_003_0014_0022_N.mp4"
+        },
+        {
+            "id": "testa_0259",
+            "question": "Tại nút giao đầu video này xuất hiện bao nhiêu biển báo cấm khác nhau?",
+            "choices": [
+                "A. 5",
+                "B. 2",
+                "C. 3",
+                "D. 4"
+            ],
+            "video_path": "public_test/videos/9e8fc965_792_clip_008_0048_0060_N.mp4"
+        },
+        {
+            "id": "testa_0260",
+            "question": "Trong video này, xe xích lô chỉ bị cấm trên làn đường đang chạy trong khung giờ nhất định đúng hay sai?",
+            "choices": [
+                "A. Đúng",
+                "B. Sai"
+            ],
+            "video_path": "public_test/videos/9e8fc965_792_clip_008_0048_0060_N.mp4"
+        },
+        {
+            "id": "testa_0261",
+            "question": "Trong video này xuất hiện bao nhiêu biển cảnh báo nguy hiểm?",
+            "choices": [
+                "A. Không có",
+                "B. 1",
+                "C. 2",
+                "D. 3"
+            ],
+            "video_path": "public_test/videos/f2a9dc8a_792_clip_006_0032_0037_N.mp4"
+        },
+        {
+            "id": "testa_0262",
+            "question": "Biển báo cấm xe 3 bánh và xe thô sơ 4 bánh áp dụng cho khung giờ nào?",
+            "choices": [
+                "A. 5:00-16:00",
+                "B. 13:00-16:00",
+                "C. 16:00-22:00",
+                "D. 5:00-13:00 và 16:00-22:00"
+            ],
+            "video_path": "public_test/videos/f2a9dc8a_792_clip_006_0032_0037_N.mp4"
+        },
+        {
+            "id": "testa_0263",
+            "question": "Trong video này xuất hiện 3 biển cảnh báo nguy hiểm. Đúng hay sai?",
+            "choices": [
+                "A. Đúng",
+                "B. Sai"
+            ],
+            "video_path": "public_test/videos/f2a9dc8a_792_clip_006_0032_0037_N.mp4"
+        },
+        {
+            "id": "testa_0264",
+            "question": "Trong video này, biển hiệu lệnh trên làn đường đang chạy có ý nghĩa gì?",
+            "choices": [
+                "A. Hướng đi thẳng phải theo",
+                "B. Hướng đi phải phải theo",
+                "C. Hướng đi trái phải theo",
+                "D. Hướng phải đi vòng sang phải"
+            ],
+            "video_path": "public_test/videos/6f92f25e_792_clip_008_0042_0051_N.mp4"
+        },
+        {
+            "id": "testa_0265",
+            "question": "Trong video này, biển hiệu lệnh trên làn đường đang chạy áp dụng cho loại phương tiện nào?",
+            "choices": [
+                "A. Ô tô",
+                "B. Ô tô và xe máy",
+                "C. Mọi loại phương tiện trừ xe máy",
+                "D. Mọi loại phương tiện"
+            ],
+            "video_path": "public_test/videos/6f92f25e_792_clip_008_0042_0051_N.mp4"
+        },
+        {
+            "id": "testa_0266",
+            "question": "Trong video này, biển hiệu lệnh trên làn đường đang chạy có ý nghĩa “Hướng đi thẳng phải theo”. Đúng hay sai?",
+            "choices": [
+                "A. Đúng",
+                "B. Sai"
+            ],
+            "video_path": "public_test/videos/6f92f25e_792_clip_008_0042_0051_N.mp4"
+        },
+        {
+            "id": "testa_0267",
+            "question": "Trong video, biển báo phía bên phải trên làn đường đang chạy thuộc loại biển báo gì?",
+            "choices": [
+                "A. Biển báo cấm",
+                "B. Biển cảnh báo nguy hiểm",
+                "C. Biển hiệu lệnh",
+                "D. Biển chỉ dẫn"
+            ],
+            "video_path": "public_test/videos/17d2582e_792_clip_009_0051_0060_N.mp4"
+        },
+        {
+            "id": "testa_0268",
+            "question": "Nội dung biển báo nguy hiểm có liên quan đến cầu vượt phía trước không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/17d2582e_792_clip_009_0051_0060_N.mp4"
+        },
+        {
+            "id": "testa_0269",
+            "question": "Trong video này, chiều cao giới hạn của các phương tiện khi đi qua gầm cầu là 2m. Đúng hay sai?",
+            "choices": [
+                "A. Đúng",
+                "B. Sai"
+            ],
+            "video_path": "public_test/videos/6694c343_792_clip_001_0000_0005_N.mp4"
+        },
+        {
+            "id": "testa_0270",
+            "question": "Trong video này, chiều cao giới hạn của các phương tiện khi đi qua gầm cầu là bao nhiêu?",
+            "choices": [
+                "A. 2m",
+                "B. 2,2m",
+                "C. 3m",
+                "D. 3,5m"
+            ],
+            "video_path": "public_test/videos/6694c343_792_clip_001_0000_0005_N.mp4"
+        },
+        {
+            "id": "testa_0271",
+            "question": "Nội dung của các biển báo cấm trong video là gì?",
+            "choices": [
+                "A. Cấm đi ngược chiều, cấm đỗ xe, cấm xe ba bánh và xe thô sơ ba bánh",
+                "B. Cấm đi ngược chiều, cấm dừng đỗ xe, cấm xe ba bánh và xe thô sơ ba bánh",
+                "C. Cấm đi ngược chiều, cấm đỗ xe, cấm xe tải và xe thô sơ",
+                "D. Cấm đi ngược chiều, cấm dừng đỗ xe, cấm xe tải và xe thô sơ"
+            ],
+            "video_path": "public_test/videos/f7e8f8e5_792_clip_008_0045_0053_N.mp4"
+        },
+        {
+            "id": "testa_0272",
+            "question": "Trong video có tất cả bao nhiêu nhóm biển báo ?",
+            "choices": [
+                "A. 1",
+                "B. 2",
+                "C. 3",
+                "D. 4"
+            ],
+            "video_path": "public_test/videos/f7e8f8e5_792_clip_008_0045_0053_N.mp4"
+        },
+        {
+            "id": "testa_0273",
+            "question": "Trong video có xuất hiện biển báo hiệu lệnh không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/8498e113_792_clip_009_0053_0060_N.mp4"
+        },
+        {
+            "id": "testa_0274",
+            "question": "Ý nghĩa của vạch kẻ gãy khúc màu vàng trong video là gì?",
+            "choices": [
+                "A. Xác định vị trí dừng xe",
+                "B. Làn dành cho xe khách",
+                "C. Quy định vị trí dừng xe của các phương tiện giao thông công cộng",
+                "D. Xác định đến vị trí dừng xe"
+            ],
+            "video_path": "public_test/videos/8498e113_792_clip_009_0053_0060_N.mp4"
+        },
+        {
+            "id": "testa_0275",
+            "question": "Xe di chuyển trên cầu có được phép lấn làn không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/ab8ddeb4_792_clip_003_0012_0018_N.mp4"
+        },
+        {
+            "id": "testa_0276",
+            "question": "Trong video có tất cả bao nhiêu nhóm biển báo?",
+            "choices": [
+                "A. 1",
+                "B. 2",
+                "C. 3",
+                "D. 4"
+            ],
+            "video_path": "public_test/videos/ab8ddeb4_792_clip_003_0012_0018_N.mp4"
+        },
+        {
+            "id": "testa_0277",
+            "question": "Ý nghĩa của biển báo cấm trong video là gì?",
+            "choices": [
+                "A. Cấm đỗ xe ngày chẵn",
+                "B. Cấm đỗ xe ngày lẻ",
+                "C. Cấm đỗ xe",
+                "D. Cấm dừng và đỗ xe"
+            ],
+            "video_path": "public_test/videos/3d1a85dd_792_clip_005_0024_0034_N.mp4"
+        },
+        {
+            "id": "testa_0278",
+            "question": "Trong video có xuất hiện biển báo cấm đỗ xe không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/3d1a85dd_792_clip_005_0024_0034_N.mp4"
+        },
+        {
+            "id": "testa_0279",
+            "question": "Trong video, những biển báo nào xuất hiện? Chọn đáp án đúng và đầy đủ nhất.",
+            "choices": [
+                "A. Biển cấm đỗ xe, biển cấm rẽ trái, biển cấm quay đầu",
+                "B. Biển cấm dừng đỗ, biển cấm đi ngược chiều, biển chỉ dẫn đi bên phải",
+                "C. Biển cấm xe tải, biển cấm quay đầu, biển cấm rẽ trái",
+                "D. Biển chỉ dẫn đi thẳng, biển cấm dừng đỗ, biển cấm rẽ phải"
+            ],
+            "video_path": "public_test/videos/a4244f23_792_clip_001_0000_0005_N.mp4"
+        },
+        {
+            "id": "testa_0280",
+            "question": "Biển cấm bên tay phải trong video là biển gì?",
+            "choices": [
+                "A. Biển cấm đỗ xe",
+                "B. Biển cấm dừng đỗ",
+                "C. Biển cấm rẽ trái",
+                "D. Biển cấm quay đầu"
+            ],
+            "video_path": "public_test/videos/a4244f23_792_clip_001_0000_0005_N.mp4"
+        },
+        {
+            "id": "testa_0281",
+            "question": "Trong video, 3 biển báo thuộc 2 nhóm biển báo khác nhau đúng không?",
+            "choices": [
+                "A. Đúng",
+                "B. Sai"
+            ],
+            "video_path": "public_test/videos/a4244f23_792_clip_001_0000_0005_N.mp4"
+        },
+        {
+            "id": "testa_0282",
+            "question": "Chiều cao tĩnh không thực tế trong video là bao nhiêu mét?",
+            "choices": [
+                "A. 2.7 m",
+                "B. 3.1 m",
+                "C. 2.2 m",
+                "D. 3.5 m"
+            ],
+            "video_path": "public_test/videos/f75d599f_792_clip_003_0013_0022_N.mp4"
+        },
+        {
+            "id": "testa_0283",
+            "question": "Trong video, những biển báo nào xuất hiện? Chọn đáp án đúng và đầy đủ nhất.",
+            "choices": [
+                "A. Biển cấm đi ngược chiều, biển chỉ dẫn đi bên phải, biển cấm dừng đỗ, biển báo đi chậm, biển cảnh báo cầu hẹp, biển giới hạn chiều cao, biển hạn chế trọng lượng, biển cấm xe tải",
+                "B. Biển chỉ dẫn đi bên phải, biển cấm dừng đỗ, biển cấm rẽ trái, biển giới hạn tốc độ, biển báo cầu rộng, biển cảnh báo nguy hiểm, biển cấm xe con, biển cấm quay đầu",
+                "C. Biển cấm đỗ xe, biển cấm đi ngược chiều, biển hiệu lệnh đi thẳng, biển chỉ dẫn khu vực đỗ xe, biển báo giảm tố",
+                "D. Biển cấm quay đầu, biển cấm rẽ trái, biển chỉ dẫn đi thẳng, biển cảnh báo đường đôi, biển giới hạn tốc độ, biển cảnh báo gập ghềnh, biển hạn chế chiều cao, biển cấm ô tô"
+            ],
+            "video_path": "public_test/videos/f75d599f_792_clip_003_0013_0022_N.mp4"
+        },
+        {
+            "id": "testa_0284",
+            "question": "Trong video giới hạn tải trọng của cầu là 13 tấn đúng không?",
+            "choices": [
+                "A. Đúng",
+                "B. Sai"
+            ],
+            "video_path": "public_test/videos/f75d599f_792_clip_003_0013_0022_N.mp4"
+        },
+        {
+            "id": "testa_0285",
+            "question": "Trong video, biển báo cấm giới hạn chiều cao được quy định là 3.5 m, đúng không?",
+            "choices": [
+                "A. Đúng",
+                "B. Sai"
+            ],
+            "video_path": "public_test/videos/b6dd6257_792_clip_005_0029_0037_N.mp4"
+        },
+        {
+            "id": "testa_0286",
+            "question": "Trong video, những biển báo nào xuất hiện? Chọn đáp án đúng và đầy đủ nhất.",
+            "choices": [
+                "A. Biển cấm đi ngược chiều, biển cấm người đi bộ, biển giới hạn chiều cao",
+                "B. Biển cấm người đi bộ, biển cấm đỗ xe, biển cấm dừng đỗ",
+                "C. Biển cấm đi ngược chiều, biển cấm xe tải, biển chỉ dẫn đi bên phải",
+                "D. Biển cấm dừng đỗ, biển cấm rẽ trái, biển giới hạn chiều cao"
+            ],
+            "video_path": "public_test/videos/b6dd6257_792_clip_005_0029_0037_N.mp4"
+        },
+        {
+            "id": "testa_0287",
+            "question": "Trong video, biển báo cấm giới hạn chiều cao xuất hiện trong video là bao nhiêu mét?",
+            "choices": [
+                "A. 2.7 m",
+                "B. 3.1 m",
+                "C. 3.5 m",
+                "D. 4.0 m"
+            ],
+            "video_path": "public_test/videos/b6dd6257_792_clip_005_0029_0037_N.mp4"
+        },
+        {
+            "id": "testa_0288",
+            "question": "Trong video, những biển báo nào xuất hiện? Chọn đáp án đúng và đầy đủ nhất.",
+            "choices": [
+                "A. Biển cấm rẽ trái và biển cảnh báo đi chậm",
+                "B. Biển cấm đỗ xe và biển cảnh báo đường trơn",
+                "C. Biển cấm vượt và biển cảnh báo giao nhau",
+                "D. Biển cấm quay đầu và biển cảnh báo đường hẹp"
+            ],
+            "video_path": "public_test/videos/9ad620ab_792_clip_006_0037_0046_N.mp4"
+        },
+        {
+            "id": "testa_0289",
+            "question": "Biển tam giác xuất hiện đầu tiên trong video có ý nghĩa gì?",
+            "choices": [
+                "A. Cảnh báo đường trơn",
+                "B. Cảnh báo đi chậm",
+                "C. Cảnh báo đường cong nguy hiểm",
+                "D. Cảnh báo người đi bộ"
+            ],
+            "video_path": "public_test/videos/9ad620ab_792_clip_006_0037_0046_N.mp4"
+        },
+        {
+            "id": "testa_0290",
+            "question": "Trong video, người đi bộ có thể băng ngang đường không?",
+            "choices": [
+                "A. Có",
+                "B. Không"
+            ],
+            "video_path": "public_test/videos/e519dd7e_792_clip_007_0046_0055_N.mp4"
+        },
+        {
+            "id": "testa_0291",
+            "question": "Biển tam giác vàng xuất hiện trong video có ý nghĩa gì?",
+            "choices": [
+                "A. Chỗ ngoặt nguy hiểm vòng bên phải",
+                "B. Đường trơn trượt",
+                "C. Chỗ ngoặt nguy hiểm vòng bên trái",
+                "D. Công trường đang thi công"
+            ],
+            "video_path": "public_test/videos/ca55e38b_801_clip_001_0000_0006_Y.mp4"
+        },
+        {
+            "id": "testa_0292",
+            "question": "Tốc độ giới hạn tối đa được phép trong video là bao nhiêu?",
+            "choices": [
+                "A. 20 km/h",
+                "B. 30 km/h",
+                "C. 40 km/h",
+                "D. 50 km/h"
+            ],
+            "video_path": "public_test/videos/ca55e38b_801_clip_001_0000_0006_Y.mp4"
+        },
+        {
+            "id": "testa_0293",
+            "question": "Trong video có bao nhiêu biển báo xuất hiện?",
+            "choices": [
+                "A. 1",
+                "B. 2",
+                "C. 3",
+                "D. 4"
+            ],
+            "video_path": "public_test/videos/dc5be7d1_801_clip_004_0021_0026_N.mp4"
+        },
+        {
+            "id": "testa_0294",
+            "question": "Biển báo cấm nào xuất hiện trong video?",
+            "choices": [
+                "A. Cấm rẽ trái",
+                "B. Cấm đỗ",
+                "C. Cấm vượt",
+                "D. Cấm đi ngược chiều"
+            ],
+            "video_path": "public_test/videos/dc5be7d1_801_clip_004_0021_0026_N.mp4"
+        },
+        {
+            "id": "testa_0295",
+            "question": "Trong video có bao nhiêu biển báo xuất hiện?",
+            "choices": [
+                "A. 1",
+                "B. 2",
+                "C. 3",
+                "D. 4"
+            ],
+            "video_path": "public_test/videos/8bc78e81_801_clip_005_0026_0031_Y.mp4"
+        },
+        {
+            "id": "testa_0296",
+            "question": "Biển báo cấm nào xuất hiện trong video?",
+            "choices": [
+                "A. Cấm rẽ trái",
+                "B. Cấm đỗ",
+                "C. Cấm vượt",
+                "D. Cấm đi ngược chiều"
+            ],
+            "video_path": "public_test/videos/8bc78e81_801_clip_005_0026_0031_Y.mp4"
+        },
+        {
+            "id": "testa_0297",
+            "question": "Biển tròn bên phải là gì?",
+            "choices": [
+                "A. Cấm rẽ trái quay đầu",
+                "B. Cấm rẽ trái cho phương tiện ô tô",
+                "C. Cấm rẽ trái",
+                "D. Cấm rẽ trái trong khung giờ quy định"
+            ],
+            "video_path": "public_test/videos/1beaf6ac_801_clip_007_0037_0047_Y.mp4"
+        },
+        {
+            "id": "testa_0298",
+            "question": "Biển bên phải là gì?",
+            "choices": [
+                "A. Cảnh báo nhiều chỗ ngoặt",
+                "B. Cảnh báo công trường bên phải",
+                "C. Cảnh báo chỗ ngoặt nguy hiểm vòng bên phải",
+                "D. Cảnh báo giao nhau đường rẽ nguy hiểm"
+            ],
+            "video_path": "public_test/videos/504d281f_801_clip_001_0000_0010_Y.mp4"
+        },
+        {
+            "id": "testa_0299",
+            "question": "Biển cấm nào xuất hiện đầu tiên trong video?",
+            "choices": [
+                "A. Cấm rẽ trái",
+                "B. Cấm đỗ",
+                "C. Cấm vượt",
+                "D. Cấm quay đầu"
+            ],
+            "video_path": "public_test/videos/bd767e35_801_clip_004_0027_0032_Y.mp4"
+        },
+        {
+            "id": "testa_0300",
+            "question": "Biển tam giác cảnh báo nào xuất hiện đầu tiên trong video?",
+            "choices": [
+                "A. Cảnh báo người đi bộ sang ngang",
+                "B. Cảnh báo đi chậm",
+                "C. Cảnh báo đường trơn",
+                "D. Cảnh báo giao nhau với đường ưu tiên"
+            ],
+            "video_path": "public_test/videos/bd767e35_801_clip_004_0027_0032_Y.mp4"
+        },
+        {
+            "id": "testa_0301",
+            "question": "Biển chỉ dẫn trong video cho phép phương tiện đi về hướng nào?",
+            "choices": [
+                "A. Bên phải",
+                "B. Bên trái",
+                "C. Cả bên trái và bên phải",
+                "D. Đi thẳng"
+            ],
+            "video_path": "public_test/videos/e88da719_801_clip_005_0032_0038_Y.mp4"
+        },
+        {
+            "id": "testa_0302",
+            "question": "Những biển cảnh báo tam giác nào xuất hiện trong video?",
+            "choices": [
+                "A. Đi chậm, công trường đang thi công, giao nhau với đường không ưu tiên, người đi bộ sang ngang",
+                "B. Đi chậm, công trường đang thi công, giao nhau với đường ưu tiên, người đi bộ sang ngang",
+                "C. Đi chậm, cảnh báo dốc xuống, giao nhau với đường không ưu tiên, người đi bộ sang ngang",
+                "D. Công trường đang thi công, giao nhau với đường không ưu tiên, người đi bộ sang ngang, cảnh báo đường trơn"
+            ],
+            "video_path": "public_test/videos/e88da719_801_clip_005_0032_0038_Y.mp4"
+        },
+        {
+            "id": "testa_0303",
+            "question": "Có bao nhiêu biển báo cảnh báo tam giác xuất hiện trong video?",
+            "choices": [
+                "A. 1 biển",
+                "B. 2 biển",
+                "C. 3 biển",
+                "D. 4 biển"
+            ],
+            "video_path": "public_test/videos/688613db_801_clip_006_0038_0047_Y.mp4"
+        },
+        {
+            "id": "testa_0304",
+            "question": "Biển cấm nào xuất hiện trong video?",
+            "choices": [
+                "A. Cấm quay đầu",
+                "B. Cấm rẽ trái",
+                "C. Cấm đi ngược chiều",
+                "D. Cấm vượt"
+            ],
+            "video_path": "public_test/videos/688613db_801_clip_006_0038_0047_Y.mp4"
+        },
+        {
+            "id": "testa_0305",
+            "question": "Những biển báo nào xuất hiện trong video?",
+            "choices": [
+                "A. Đường người đi bộ, giao nhau với đường ưu tiên, đi chậm",
+                "B. Đường người đi bộ, cấm đỗ, đi chậm",
+                "C. Giao nhau với đường ưu tiên, cấm vượt, đi chậm",
+                "D. Đường người đi bộ, giao nhau với đường ưu tiên, cấm rẽ trái"
+            ],
+            "video_path": "public_test/videos/31b1b099_801_clip_005_0032_0039_Y.mp4"
+        },
+        {
+            "id": "testa_0306",
+            "question": "Biển báo thứ hai trong cụm 3 biển báo nguy hiểm trong video là gì?",
+            "choices": [
+                "A. Giao nhau với đường ưu tiên",
+                "B. Đường người đi bộ",
+                "C. Đi chậm",
+                "D. Cấm đỗ"
+            ],
+            "video_path": "public_test/videos/31b1b099_801_clip_005_0032_0039_Y.mp4"
+        },
+        {
+            "id": "testa_0307",
+            "question": "Có bao nhiêu biển báo nguy hiểm xuất hiện trong video?",
+            "choices": [
+                "A. 2",
+                "B. 3",
+                "C. 4",
+                "D. 5"
+            ],
+            "video_path": "public_test/videos/4b8c5bdc_801_clip_006_0039_0044_Y.mp4"
+        },
+        {
+            "id": "testa_0308",
+            "question": "Biển báo nào xuất hiện trên cùng trong video?",
+            "choices": [
+                "A. Đường người đi bộ",
+                "B. Cấm đỗ",
+                "C. Giao nhau với đường ưu tiên",
+                "D. Đi chậm"
+            ],
+            "video_path": "public_test/videos/4b8c5bdc_801_clip_006_0039_0044_Y.mp4"
+        },
+        {
+            "id": "testa_0309",
+            "question": "Biển báo cấm nào xuất hiện đầu tiên trong video?",
+            "choices": [
+                "A. Cấm rẽ trái",
+                "B. Cấm đi ngược chiều",
+                "C. Cấm dừng đỗ",
+                "D. Cấm vượt"
+            ],
+            "video_path": "public_test/videos/e1805081_801_clip_007_0044_0050_Y.mp4"
+        },
+        {
+            "id": "testa_0310",
+            "question": "Có bao nhiêu biển báo cấm xuất hiện trong video?",
+            "choices": [
+                "A. 2",
+                "B. 3",
+                "C. 4",
+                "D. 5"
+            ],
+            "video_path": "public_test/videos/e1805081_801_clip_007_0044_0050_Y.mp4"
+        },
+        {
+            "id": "testa_0311",
+            "question": "Đường Nguyễn Khoa Đăng cách bao nhiêu km theo biển chỉ dẫn trong video?",
+            "choices": [
+                "A. 1,0 km",
+                "B. 1,5 km",
+                "C. 2,0 km",
+                "D. 3,0 km"
+            ],
+            "video_path": "public_test/videos/0f5675f8_801_clip_008_0050_0060_Y.mp4"
+        },
+        {
+            "id": "testa_0312",
+            "question": "Xe 2 và 3 bánh được phép di chuyển theo hướng nào trong video?",
+            "choices": [
+                "A. Rẽ trái",
+                "B. Rẽ phải",
+                "C. Đi thẳng",
+                "D. Quay đầu"
+            ],
+            "video_path": "public_test/videos/0f5675f8_801_clip_008_0050_0060_Y.mp4"
+        },
+        {
+            "id": "testa_0313",
+            "question": "Những biển báo cấm nào xuất hiện trong video?",
+            "choices": [
+                "A. Cấm đi ngược chiều, cấm dừng đỗ, cấm rẽ trái",
+                "B. Cấm đi ngược chiều, cấm xe 2 và 3 bánh",
+                "C. Cấm dừng đỗ, cấm xe 2 và 3 bánh",
+                "D. Cấm đi ngược chiều, cấm dừng đỗ, cấm xe 2 và 3 bánh"
+            ],
+            "video_path": "public_test/videos/8164ceec_801_clip_001_0000_0009_Y.mp4"
+        },
+        {
+            "id": "testa_0314",
+            "question": "Biển báo cấm nào xuất hiện bên tay trái trong video?",
+            "choices": [
+                "A. Cấm dừng đỗ",
+                "B. Cấm xe 2 và 3 bánh",
+                "C. Cấm đi ngược chiều",
+                "D. Cấm rẽ trái"
+            ],
+            "video_path": "public_test/videos/8164ceec_801_clip_001_0000_0009_Y.mp4"
+        },
+        {
+            "id": "testa_0315",
+            "question": "Biển tam giác vàng phía dưới trong video có ý nghĩa gì?",
+            "choices": [
+                "A. Đi chậm",
+                "B. Giao nhau với đường ưu tiên",
+                "C. Chú ý người đi bộ",
+                "D. Cầu hẹp"
+            ],
+            "video_path": "public_test/videos/b3a7d0e0_801_clip_005_0031_0038_Y.mp4"
+        },
+        {
+            "id": "testa_0316",
+            "question": "Phương tiện nào bị cấm theo biển báo trong video?",
+            "choices": [
+                "A. Xe tải",
+                "B. Xe khách",
+                "C. Xe mô tô",
+                "D. Xe đạp"
+            ],
+            "video_path": "public_test/videos/b3a7d0e0_801_clip_005_0031_0038_Y.mp4"
+        },
+        {
+            "id": "testa_0317",
+            "question": "Theo biển báo trong video, cầu Phú Mỹ cách bao nhiêu km?",
+            "choices": [
+                "A. 2,5 km",
+                "B. 3 km",
+                "C. 3,5 km",
+                "D. 4 km"
+            ],
+            "video_path": "public_test/videos/ac8936bc_801_clip_007_0045_0052_N.mp4"
+        },
+        {
+            "id": "testa_0318",
+            "question": "Theo biển báo trong video, đường Mai Chí Thọ đi theo hướng nào?",
+            "choices": [
+                "A. Rẽ trái",
+                "B. Rẽ phải",
+                "C. Đi thẳng",
+                "D. Quay đầu"
+            ],
+            "video_path": "public_test/videos/ac8936bc_801_clip_007_0045_0052_N.mp4"
+        },
+        {
+            "id": "testa_0319",
+            "question": "Tại làn đường bên phải trong video, xuất hiện những loại biển báo nào?",
+            "choices": [
+                "A. Biển cấm",
+                "B. Biển cấm, biển báo nguy hiểm",
+                "C. Biển cấm, biển phụ, biển báo nguy hiểm",
+                "D. Biển hiệu lệnh, biển phụ"
+            ],
+            "video_path": "public_test/videos/48bddb3e_801_clip_008_0052_0060_Y.mp4"
+        },
+        {
+            "id": "testa_0320",
+            "question": "Cụm biển báo tại làn đường bên phải trong video thể hiện điều gì?",
+            "choices": [
+                "A. Biển hiệu lệnh nơi giao nhau, chạy theo vòng xuyến và chú ý quan sát",
+                "B. Biển cấm rẽ trái, đi thẳng và chú ý quan sát",
+                "C. Biển cấm quay đầu và đi chậm",
+                "D. Biển chỉ dẫn đường một chiều"
+            ],
+            "video_path": "public_test/videos/48bddb3e_801_clip_008_0052_0060_Y.mp4"
+        },
+        {
+            "id": "testa_0321",
+            "question": "Giới hạn chiều cao cho phép theo biển báo trong video là bao nhiêu?",
+            "choices": [
+                "A. 4,75m",
+                "B. 3,5m",
+                "C. 5,0m",
+                "D. 4,2m"
+            ],
+            "video_path": "public_test/videos/23377bbc_801_clip_002_0010_0015_Y.mp4"
+        },
+        {
+            "id": "testa_0322",
+            "question": "Theo biển báo, đi thẳng sẽ dẫn đến đâu?",
+            "choices": [
+                "A. Nút giao An Phú",
+                "B. Cầu Phú Mỹ",
+                "C. KCN Cát Lái 2",
+                "D. Cầu Him Lam"
+            ],
+            "video_path": "public_test/videos/23377bbc_801_clip_002_0010_0015_Y.mp4"
+        },
+        {
+            "id": "testa_0323",
+            "question": "Trên làn đường mà xe đang đi trong video, những phương tiện nào được phép lưu thông?",
+            "choices": [
+                "A. Xe tải",
+                "B. Xe con, xe tải",
+                "C. Xe con, xe khách, xe tải",
+                "D. Xe con, xe khách"
+            ],
+            "video_path": "public_test/videos/2720797d_801_clip_003_0015_0023_Y.mp4"
+        },
+        {
+            "id": "testa_0324",
+            "question": "Phương tiện đang di chuyển vào đâu trong video?",
+            "choices": [
+                "A. Cầu Rồng",
+                "B. Cầu Mỹ Thủy 1",
+                "C. Cầu Mỹ Thủy 3",
+                "D. Cầu Sông Hồng"
+            ],
+            "video_path": "public_test/videos/2720797d_801_clip_003_0015_0023_Y.mp4"
+        },
+        {
+            "id": "testa_0325",
+            "question": "Có bao nhiêu phương tiện bị cấm theo biển báo trong video?",
+            "choices": [
+                "A. 3",
+                "B. 4",
+                "C. 5",
+                "D. 6"
+            ],
+            "video_path": "public_test/videos/f26b4776_801_clip_004_0023_0031_Y.mp4"
+        },
+        {
+            "id": "testa_0326",
+            "question": "Biển báo nào xuất hiện nhiều nhất trong video?",
+            "choices": [
+                "A. Cấm ô tô và cấm dừng đỗ",
+                "B. Cấm xe máy và cấm dừng đỗ",
+                "C. Cấm xe tải và cấm đỗ",
+                "D. Cấm rẽ trái và cấm quay đầu"
+            ],
+            "video_path": "public_test/videos/f26b4776_801_clip_004_0023_0031_Y.mp4"
+        },
+        {
+            "id": "testa_0327",
+            "question": "Trong video biển báo phân làn quy định những phương tiện nào được phép lưu thông?",
+            "choices": [
+                "A. Xe đạp",
+                "B. Xe ô tô, xe con, xe tải",
+                "C. Xe ô tô, xe con, xe khách, xe tải",
+                "D. Xe ô tô, xe con, xe khách, xe máy, xe 2 bánh"
+            ],
+            "video_path": "public_test/videos/a3404f08_801_clip_007_0043_0053_Y.mp4"
+        },
+        {
+            "id": "testa_0328",
+            "question": "Trong video, loại biển báo nào sau đây không xuất hiện?",
+            "choices": [
+                "A. Biển báo cấm",
+                "B. Biển báo nguy hiểm",
+                "C. Biển hiệu lệnh",
+                "D. Biển báo trên đường cao tốc"
+            ],
+            "video_path": "public_test/videos/a3404f08_801_clip_007_0043_0053_Y.mp4"
+        },
+        {
+            "id": "testa_0329",
+            "question": "Trong video có bao nhiêu nhóm biển báo khác nhau?",
+            "choices": [
+                "A. 2",
+                "B. 3",
+                "C. 4",
+                "D. 5"
+            ],
+            "video_path": "public_test/videos/af88bdec_801_clip_008_0053_0060_Y.mp4"
+        },
+        {
+            "id": "testa_0330",
+            "question": "Trong video, làn đường xe đang chạy cấm những phương tiện nào?",
+            "choices": [
+                "A. Xe tải, xe buýt, ô tô kéo móoc",
+                "B. Xe tải, xe ba bánh, xe container",
+                "C. Xe khách, xe tải, xe container",
+                "D. Xe khách, xe ba bánh, xe container"
+            ],
+            "video_path": "public_test/videos/af88bdec_801_clip_008_0053_0060_Y.mp4"
+        },
+        {
+            "id": "testa_0331",
+            "question": "Tốc độ giới hạn trong video là bao nhiêu?",
+            "choices": [
+                "A. 50 km/h và 70 km/h",
+                "B. 60 km/h và 70 km/h",
+                "C. 40 km/h và 70 km/h",
+                "D. 70 km/h và 80 km/h"
+            ],
+            "video_path": "public_test/videos/5913f9d3_1000_clip_004_0019_0028_Y.mp4"
+        },
+        {
+            "id": "testa_0332",
+            "question": "Có bao nhiêu biển cấm đi ngược chiều xuất hiện trong video?",
+            "choices": [
+                "A. 2",
+                "B. 3",
+                "C. 1",
+                "D. 0"
+            ],
+            "video_path": "public_test/videos/5913f9d3_1000_clip_004_0019_0028_Y.mp4"
+        },
+        {
+            "id": "testa_0333",
+            "question": "Trong video, loại biển báo nào không xuất hiện?",
+            "choices": [
+                "A. Biển cấm",
+                "B. Biển chỉ dẫn",
+                "C. Biển hiệu lệnh",
+                "D. Biển báo phụ"
+            ],
+            "video_path": "public_test/videos/341c6494_1000_clip_005_0028_0035_Y.mp4"
+        },
+        {
+            "id": "testa_0334",
+            "question": "Trong video, 2 biển báo bên trái có ý nghĩa gì?",
+            "choices": [
+                "A. Cấm đi ngược chiều",
+                "B. Cấm đi ngược chiều, hướng phải đi vòng sang phải",
+                "C. Cấm đi ngược chiều, hướng phải đi vòng sang phải, và quay đầu",
+                "D. Cấm đi ngược chiều, làn rẽ phải, và quay đầu"
+            ],
+            "video_path": "public_test/videos/341c6494_1000_clip_005_0028_0035_Y.mp4"
+        },
+        {
+            "id": "testa_0335",
+            "question": "Những loại biển báo nào xuất hiện trong video?",
+            "choices": [
+                "A. Biển chỉ dẫn, biển cấm",
+                "B. Biển chỉ dẫn, biển cấm, biển cảnh báo",
+                "C. Biển chỉ dẫn, biển cấm, biển cảnh báo, biển hiệu lệnh",
+                "D. Biển cấm, biển cảnh báo, biển hiệu lệnh"
+            ],
+            "video_path": "public_test/videos/3a3c563e_1000_clip_002_0006_0016_Y.mp4"
+        },
+        {
+            "id": "testa_0336",
+            "question": "Trong video không xuất hiện loại biển báo nào?",
+            "choices": [
+                "A. Biển cấm",
+                "B. Biển báo phụ",
+                "C. Biển cảnh báo",
+                "D. Biển hiệu lệnh"
+            ],
+            "video_path": "public_test/videos/3a3c563e_1000_clip_002_0006_0016_Y.mp4"
+        },
+        {
+            "id": "testa_0337",
+            "question": "Những loại biển báo nào xuất hiện trong video?",
+            "choices": [
+                "A. Biển chỉ dẫn, biển báo phụ",
+                "B. Biển chỉ dẫn, biển báo phụ, biển cấm",
+                "C. Biển chỉ dẫn, biển cấm",
+                "D. Chỉ có biển cấm"
+            ],
+            "video_path": "public_test/videos/c96b5edb_1000_clip_003_0016_0023_Y.mp4"
+        },
+        {
+            "id": "testa_0338",
+            "question": "Có bao nhiêu hướng chính được chỉ dẫn trong video?",
+            "choices": [
+                "A. 3",
+                "B. 2",
+                "C. 4",
+                "D. Không có thông tin"
+            ],
+            "video_path": "public_test/videos/c96b5edb_1000_clip_003_0016_0023_Y.mp4"
+        },
+        {
+            "id": "testa_0339",
+            "question": "Biển báo cấm trong video áp dụng cho phương tiện nào?",
+            "choices": [
+                "A. Xe tải",
+                "B. Xe buýt điện",
+                "C. Xe con",
+                "D. Xe ô tô"
+            ],
+            "video_path": "public_test/videos/df615a5c_1000_clip_005_0033_0040_Y.mp4"
+        },
+        {
+            "id": "testa_0340",
+            "question": "Những loại biển báo nào xuất hiện trong video?",
+            "choices": [
+                "A. Biển chỉ dẫn, biển cấm",
+                "B. Biển chỉ dẫn, biển cấm, biển hiệu lệnh",
+                "C. Biển chỉ dẫn, biển hiệu lệnh",
+                "D. Chỉ có biển cấm"
+            ],
+            "video_path": "public_test/videos/df615a5c_1000_clip_005_0033_0040_Y.mp4"
+        },
+        {
+            "id": "testa_0341",
+            "question": "Những loại biển báo nào xuất hiện trong video?",
+            "choices": [
+                "A. Biển chỉ dẫn, biển báo phụ",
+                "B. Biển chỉ dẫn, biển báo phụ, biển cấm",
+                "C. Biển chỉ dẫn, biển báo phụ, biển cấm, biển hiệu lệnh",
+                "D. Biển chỉ dẫn, biển cấm, biển hiệu lệnh"
+            ],
+            "video_path": "public_test/videos/01f7c7ec_1000_clip_006_0040_0050_Y.mp4"
+        },
+        {
+            "id": "testa_0342",
+            "question": "Thảo cầm viên Sài Gòn cách điểm chỉ dẫn khoảng cách bao nhiêu?",
+            "choices": [
+                "A. 500m",
+                "B. 400m",
+                "C. 450m",
+                "D. 550m"
+            ],
+            "video_path": "public_test/videos/01f7c7ec_1000_clip_006_0040_0050_Y.mp4"
+        },
+        {
+            "id": "testa_0343",
+            "question": "Trong video, rẽ phải sẽ đi đến đường nào?",
+            "choices": [
+                "A. Tôn Đức Thắng",
+                "B. Nguyễn Thị Minh Khai",
+                "C. Lê Lợi",
+                "D. Phan Đình Phùng"
+            ],
+            "video_path": "public_test/videos/92f837d4_1000_clip_002_0005_0012_Y.mp4"
+        },
+        {
+            "id": "testa_0344",
+            "question": "Trong video, phương tiện nào bị cấm rẽ trái?",
+            "choices": [
+                "A. Xe sơ-mi rơ-mooc",
+                "B. Xe máy",
+                "C. Ô tô con",
+                "D. Xe buýt"
+            ],
+            "video_path": "public_test/videos/92f837d4_1000_clip_002_0005_0012_Y.mp4"
+        },
+        {
+            "id": "testa_0345",
+            "question": "Trong video, đường Võ Văn Kiệt cách bao nhiêu km?",
+            "choices": [
+                "A. 1.2 km",
+                "B. 1.4 km",
+                "C. 1.6 km",
+                "D. 1.8 km"
+            ],
+            "video_path": "public_test/videos/a07295e9_1000_clip_003_0012_0018_Y.mp4"
+        },
+        {
+            "id": "testa_0346",
+            "question": "Trong video, có bao nhiêu biển báo cấm xuất hiện?",
+            "choices": [
+                "A. 2",
+                "B. 3",
+                "C. 4",
+                "D. 5"
+            ],
+            "video_path": "public_test/videos/a07295e9_1000_clip_003_0012_0018_Y.mp4"
+        },
+        {
+            "id": "testa_0347",
+            "question": "Những loại biển báo nào xuất hiện trong video?",
+            "choices": [
+                "A. Biển chỉ dẫn, biển báo phụ",
+                "B. Biển chỉ dẫn, biển báo phụ, biển hiệu lệnh",
+                "C. Biển chỉ dẫn, biển hiệu lệnh",
+                "D. Chỉ có biển chỉ dẫn"
+            ],
+            "video_path": "public_test/videos/92f5df7b_1000_clip_007_0037_0046_N.mp4"
+        },
+        {
+            "id": "testa_0348",
+            "question": "Biển hiệu lệnh theo các hướng nào?",
+            "choices": [
+                "A. Rẽ trái, rẽ phải",
+                "B. Vòng sang trái, rẽ phải",
+                "C. Vòng sang trái, vòng sang phải",
+                "D. Vòng sang phải, rẽ trái"
+            ],
+            "video_path": "public_test/videos/92f5df7b_1000_clip_007_0037_0046_N.mp4"
+        },
+        {
+            "id": "testa_0349",
+            "question": "Trong video, có bao nhiêu biển hiệu lệnh xuất hiện?",
+            "choices": [
+                "A. 1",
+                "B. 2",
+                "C. 3",
+                "D. 4"
+            ],
+            "video_path": "public_test/videos/9e3d750d_1000_clip_008_0046_0060_Y.mp4"
+        },
+        {
+            "id": "testa_0350",
+            "question": "Trong video, xe sơ-mi rơ-mooc bị cấm làm gì?",
+            "choices": [
+                "A. Rẽ phải",
+                "B. Rẽ trái",
+                "C. Quay đầu",
+                "D. Đi thẳng"
+            ],
+            "video_path": "public_test/videos/9e3d750d_1000_clip_008_0046_0060_Y.mp4"
+        },
+        {
+            "id": "testa_0351",
+            "question": "Trong video, giới hạn chiều cao là bao nhiêu?",
+            "choices": [
+                "A. 3,5m",
+                "B. 4,3m",
+                "C. 4,8m",
+                "D. 5,0m"
+            ],
+            "video_path": "public_test/videos/92698698_1000_clip_001_0000_0008_Y.mp4"
+        },
+        {
+            "id": "testa_0352",
+            "question": "Trong video, biển cấm nào xuất hiện bên tay trái?",
+            "choices": [
+                "A. Cấm rẽ phải",
+                "B. Cấm đi ngược chiều",
+                "C. Cấm đỗ",
+                "D. Cấm vượt"
+            ],
+            "video_path": "public_test/videos/92698698_1000_clip_001_0000_0008_Y.mp4"
+        },
+        {
+            "id": "testa_0353",
+            "question": "Trong video, 2 biển báo bên trái có ý nghĩa gì?",
+            "choices": [
+                "A. Cấm đi ngược chiều",
+                "B. Cấm đi ngược chiều, hướng phải đi vòng sang phải",
+                "C. Cấm đi ngược chiều, hướng phải đi vòng sang phải, và quay đầu",
+                "D. Cấm đi ngược chiều, làn rẽ phải, và quay đầu"
+            ],
+            "video_path": "public_test/videos/175ba98d_1000_clip_002_0008_0018_Y.mp4"
+        },
+        {
+            "id": "testa_0354",
+            "question": "Trong video, loại biển báo nào không xuất hiện?",
+            "choices": [
+                "A. Biển cấm",
+                "B. Biển chỉ dẫn",
+                "C. Biển hiệu lệnh",
+                "D. Biển báo phụ"
+            ],
+            "video_path": "public_test/videos/175ba98d_1000_clip_002_0008_0018_Y.mp4"
+        },
+        {
+            "id": "testa_0355",
+            "question": "Trong video, biển cấm nào xuất hiện đầu tiên?",
+            "choices": [
+                "A. Cấm rẽ trái",
+                "B. Cấm đỗ",
+                "C. Cấm đi ngược chiều",
+                "D. Cấm xe tải"
+            ],
+            "video_path": "public_test/videos/bc55300b_1000_clip_004_0024_0034_Y.mp4"
+        },
+        {
+            "id": "testa_0356",
+            "question": "Trong video, những biển nào xuất hiện?",
+            "choices": [
+                "A. Cấm đi ngược chiều, biển báo hiệu trạm xe buýt, biển hiệu lệnh hướng đi trên mỗi làn đường",
+                "B. Cấm đỗ, biển báo hiệu trạm xe buýt, biển cấm vượt",
+                "C. Cấm rẽ phải, biển chỉ dẫn đi thẳng, biển báo hiệu giao nhau",
+                "D. Cấm quay đầu, biển cảnh báo đường trơn, biển hiệu lệnh dừng lại"
+            ],
+            "video_path": "public_test/videos/bc55300b_1000_clip_004_0024_0034_Y.mp4"
+        },
+        {
+            "id": "testa_0357",
+            "question": "Trong video không xuất hiện loại biển báo nào?",
+            "choices": [
+                "A. Biển cấm",
+                "B. Biển báo phụ",
+                "C. Biển cảnh báo",
+                "D. Tất cả đều sai"
+            ],
+            "video_path": "public_test/videos/74fd33d1_1000_clip_006_0043_0053_Y.mp4"
+        },
+        {
+            "id": "testa_0358",
+            "question": "Những loại biển báo nào xuất hiện trong video?",
+            "choices": [
+                "A. Biển báo phụ",
+                "B. Biển chỉ dẫn",
+                "C. Biển cấm",
+                "D. Tất cả đều đúng"
+            ],
+            "video_path": "public_test/videos/74fd33d1_1000_clip_006_0043_0053_Y.mp4"
+        },
+        {
+            "id": "testa_0359",
+            "question": "Trong video, biển cấm nào xuất hiện đầu tiên?",
+            "choices": [
+                "A. Cấm đỗ",
+                "B. Cấm dừng đỗ",
+                "C. Cấm rẽ trái",
+                "D. Cấm đi ngược chiều"
+            ],
+            "video_path": "public_test/videos/dea4ae17_1000_clip_007_0053_0060_Y.mp4"
+        },
+        {
+            "id": "testa_0360",
+            "question": "Trong video, các biển tam giác nào xuất hiện?",
+            "choices": [
+                "A. Cảnh báo đường bị thu hẹp, cảnh báo đi chậm, cảnh báo công trường",
+                "B. Cảnh báo đường bị thu hẹp",
+                "C. Cảnh báo giao nhau với đường ưu tiên, cảnh báo đường bị thu hẹp",
+                "D. Cảnh báo người đi bộ sang ngang, cảnh báo đường bị thu hẹp"
+            ],
+            "video_path": "public_test/videos/dea4ae17_1000_clip_007_0053_0060_Y.mp4"
+        },
+        {
+            "id": "testa_0361",
+            "question": "Trong video, biển tam giác vàng xuất hiện đầu tiên có ý nghĩa gì?",
+            "choices": [
+                "A. Đường bị thu hẹp",
+                "B. Giao nhau với đường không ưu tiên",
+                "C. Chú ý người đi bộ",
+                "D. Cảnh báo khúc cua nguy hiểm"
+            ],
+            "video_path": "public_test/videos/9c2dfa97_1000_clip_001_0000_0006_Y.mp4"
+        },
+        {
+            "id": "testa_0362",
+            "question": "Có bao nhiêu biển cảnh báo nguy hiểm xuất hiện bên tay phải trong video?",
+            "choices": [
+                "A. 3",
+                "B. 1",
+                "C. 2",
+                "D. 4"
+            ],
+            "video_path": "public_test/videos/9c2dfa97_1000_clip_001_0000_0006_Y.mp4"
+        },
+        {
+            "id": "testa_0363",
+            "question": "Những loại biển báo nào xuất hiện trong video?",
+            "choices": [
+                "A. Biển chỉ dẫn, biển báo phụ",
+                "B. Biển chỉ dẫn, biển báo phụ, biển cấm",
+                "C. Biển chỉ dẫn, biển báo phụ, biển cấm, biển cảnh báo",
+                "D. Biển báo phụ, biển cấm, biển cảnh báo"
+            ],
+            "video_path": "public_test/videos/b118f68d_1000_clip_003_0014_0021_Y.mp4"
+        },
+        {
+            "id": "testa_0364",
+            "question": "Biển ngoài cùng bên phải là gì?",
+            "choices": [
+                "A. Cảnh báo đường hẹp",
+                "B. Cảnh báo đường đôi",
+                "C. Cảnh báo đường hai chiều",
+                "D. Cảnh báo đường giao nhau"
+            ],
+            "video_path": "public_test/videos/b118f68d_1000_clip_003_0014_0021_Y.mp4"
+        },
+        {
+            "id": "testa_0365",
+            "question": "Biển tam giác vàng trong video có ý nghĩa gì?",
+            "choices": [
+                "A. Cảnh báo người đi bộ sang ngang",
+                "B. Cảnh báo đường bị thu hẹp",
+                "C. Cảnh báo công trường đang thi công",
+                "D. Cảnh báo giao nhau với đường không ưu tiên"
+            ],
+            "video_path": "public_test/videos/54aebd1b_1000_clip_004_0021_0027_Y.mp4"
+        },
+        {
+            "id": "testa_0366",
+            "question": "Xe ô tô bị cấm rẽ phải trong khung giờ nào trong video?",
+            "choices": [
+                "A. 6h - 20h",
+                "B. 6h - 22h",
+                "C. 7h - 21h",
+                "D. 5h - 23h"
+            ],
+            "video_path": "public_test/videos/54aebd1b_1000_clip_004_0021_0027_Y.mp4"
+        },
+        {
+            "id": "testa_0367",
+            "question": "Hai biến báo đầu tiên ngoài cùng bên phải là gì?",
+            "choices": [
+                "A. Cấm xe con 24/24",
+                "B. Cấm xe tải chở hàng trong khung giờ quy định",
+                "C. Cấm xe ô tô trong khung giờ quy định",
+                "D. Cấm xe ô tô 24/24"
+            ],
+            "video_path": "public_test/videos/1bb43332_1000_clip_005_0027_0036_Y.mp4"
+        },
+        {
+            "id": "testa_0368",
+            "question": "Những loại biển báo nào xuất hiện trong video?",
+            "choices": [
+                "A. Biển cấm, biển báo phụ",
+                "B. Biển cấm, biển báo phụ, biển chỉ dẫn",
+                "C. Biển cấm, biển chỉ dẫn",
+                "D. Chỉ có biển cấm"
+            ],
+            "video_path": "public_test/videos/1bb43332_1000_clip_005_0027_0036_Y.mp4"
+        },
+        {
+            "id": "testa_0369",
+            "question": "Trong video có bao nhiêu loại vạch kẻ đường có chức năng xác định vị trí cấm đỗ cấm dừng xe?",
+            "choices": [
+                "A. 1",
+                "B. 2",
+                "C. 3",
+                "D. 4"
+            ],
+            "video_path": "public_test/videos/dc570131_1000_clip_005_0026_0031_Y.mp4"
+        },
+        {
+            "id": "testa_0370",
+            "question": "Biển báo cấm nào xuất hiện trong video?",
+            "choices": [
+                "A. Cấm xe tải",
+                "B. Cấm rẽ trái",
+                "C. Cấm vượt",
+                "D. Cấm dừng đỗ"
+            ],
+            "video_path": "public_test/videos/9fe0a8c7_1000_clip_007_0036_0045_Y.mp4"
+        },
+        {
+            "id": "testa_0371",
+            "question": "Biển tam giác vàng trong video có ý nghĩa gì?",
+            "choices": [
+                "A. Giao nhau với đường không ưu tiên",
+                "B. Công trường đang thi công",
+                "C. Người đi bộ sang ngang",
+                "D. Đường không bằng phẳng"
+            ],
+            "video_path": "public_test/videos/9fe0a8c7_1000_clip_007_0036_0045_Y.mp4"
+        },
+        {
+            "id": "testa_0372",
+            "question": "Biển tam giác vàng trong video có ý nghĩa gì?",
+            "choices": [
+                "A. Đường không bằng phẳng",
+                "B. Người đi bộ sang ngang",
+                "C. Giao nhau với đường không ưu tiên",
+                "D. Công trường đang thi công"
+            ],
+            "video_path": "public_test/videos/8fc85fc0_1000_clip_009_0052_0060_Y.mp4"
+        },
+        {
+            "id": "testa_0373",
+            "question": "Biển tròn trong video có ý nghĩa gì?",
+            "choices": [
+                "A. Hướng đi thẳng phải theo",
+                "B. Nơi giao nhau chạy theo vòng xuyến",
+                "C. Làn đường dành riêng cho xe buýt",
+                "D. Rẽ trái bắt buộc"
+            ],
+            "video_path": "public_test/videos/8fc85fc0_1000_clip_009_0052_0060_Y.mp4"
+        },
+        {
+            "id": "testa_0374",
+            "question": "Nội dung hai biển báo cấm trong video là gì?",
+            "choices": [
+                "A. Cấm đi ngược chiều, cấm đỗ xe ngày lẻ",
+                "B. Cấm đi ngược chiều, cấm đỗ xe",
+                "C. Cấm đi ngược chiều, cấm đỗ xe ngày chẵn",
+                "D. Cấm đi ngược chiều, cấm dừng đỗ xe"
+            ],
+            "video_path": "public_test/videos/9efba58b_1000_clip_001_0000_0010_Y.mp4"
+        },
+        {
+            "id": "testa_0375",
+            "question": "Có tất cả mấy nhóm biển báo khác nhau trong video?",
+            "choices": [
+                "A. 2",
+                "B. 3",
+                "C. 4",
+                "D. 5"
+            ],
+            "video_path": "public_test/videos/9efba58b_1000_clip_001_0000_0010_Y.mp4"
+        },
+        {
+            "id": "testa_0376",
+            "question": "Biển báo cấm nào xuất hiện đầu tiên trong video?",
+            "choices": [
+                "A. Cấm rẽ trái",
+                "B. Cấm đỗ",
+                "C. Cấm xe tải",
+                "D. Cấm đi ngược chiều"
+            ],
+            "video_path": "public_test/videos/b6d1f6bb_1000_clip_002_0010_0017_Y.mp4"
+        },
+        {
+            "id": "testa_0377",
+            "question": "Có bao nhiêu biển cấm đi ngược chiều xuất hiện trong video?",
+            "choices": [
+                "A. 1 biển",
+                "B. 2 biển",
+                "C. 3 biển",
+                "D. Không có biển nào"
+            ],
+            "video_path": "public_test/videos/b6d1f6bb_1000_clip_002_0010_0017_Y.mp4"
+        },
+        {
+            "id": "testa_0378",
+            "question": "Có bao nhiêu biển cấm dừng đỗ xuất hiện trong video?",
+            "choices": [
+                "A. 1 biển",
+                "B. 2 biển",
+                "C. 3 biển",
+                "D. Không có biển nào"
+            ],
+            "video_path": "public_test/videos/abae4f43_1000_clip_003_0017_0022_Y.mp4"
+        },
+        {
+            "id": "testa_0379",
+            "question": "Biển cấm nào xuất hiện đầu tiên trong video?",
+            "choices": [
+                "A. Cấm đi ngược chiều",
+                "B. Cấm rẽ phải",
+                "C. Cấm đỗ",
+                "D. Cấm xe tải"
+            ],
+            "video_path": "public_test/videos/abae4f43_1000_clip_003_0017_0022_Y.mp4"
+        },
+        {
+            "id": "testa_0380",
+            "question": "Xe sơ-mi rơ-mooc bị cấm làm gì trong video?",
+            "choices": [
+                "A. Cấm rẽ trái và rẽ phải",
+                "B. Cấm đi thẳng",
+                "C. Cấm quay đầu",
+                "D. Cấm dừng đỗ"
+            ],
+            "video_path": "public_test/videos/12d2fa06_1000_clip_008_0054_0060_Y.mp4"
+        },
+        {
+            "id": "testa_0381",
+            "question": "Có bao nhiêu phương tiện xuất hiện trên biển báo phụ trong video?",
+            "choices": [
+                "A. 1",
+                "B. 3",
+                "C. 2",
+                "D. 4"
+            ],
+            "video_path": "public_test/videos/12d2fa06_1000_clip_008_0054_0060_Y.mp4"
+        },
+        {
+            "id": "testa_0382",
+            "question": "Biển báo cấm xuất hiện bên tay phải, ở phía dưới trong video là biển gì?",
+            "choices": [
+                "A. Cấm đỗ",
+                "B. Cấm dừng đỗ",
+                "C. Cấm rẽ trái",
+                "D. Cấm đi ngược chiều"
+            ],
+            "video_path": "public_test/videos/20500494_1000_clip_001_0000_0010_Y.mp4"
+        },
+        {
+            "id": "testa_0383",
+            "question": "Xe mô tô được đi vào bao nhiêu làn trong video?",
+            "choices": [
+                "A. 1 làn",
+                "B. 2 làn",
+                "C. 3 làn",
+                "D. 4 làn"
+            ],
+            "video_path": "public_test/videos/20500494_1000_clip_001_0000_0010_Y.mp4"
+        },
+        {
+            "id": "testa_0384",
+            "question": "Nội dung hai biển báo cấm là gì?",
+            "choices": [
+                "A. Cấm xe tải, cấm đỗ xe ngày lẻ",
+                "B. Cấm xe tải, cấm đỗ xe",
+                "C. Cấm xe container, cấm đỗ xe ngày lẻ",
+                "D. Cấm xe container, cấm đỗ xe"
+            ],
+            "video_path": "public_test/videos/1f15c7b6_1000_clip_002_0010_0015_Y.mp4"
+        },
+        {
+            "id": "testa_0385",
+            "question": "Trong video, xe container có thể di chuyển ở bao nhiêu làn?",
+            "choices": [
+                "A. 1",
+                "B. 2",
+                "C. 3",
+                "D. Không được phép di chuyển"
+            ],
+            "video_path": "public_test/videos/1f15c7b6_1000_clip_002_0010_0015_Y.mp4"
+        },
+        {
+            "id": "testa_0386",
+            "question": "Trong video, theo hướng di chuyển, phương tiện đang bị cấm làm điều gì?",
+            "choices": [
+                "A. Rẽ trái",
+                "B. Quay đầu",
+                "C. Rẽ phải",
+                "D. Dừng đỗ"
+            ],
+            "video_path": "public_test/videos/a0d4de3d_1000_clip_004_0024_0032_Y.mp4"
+        },
+        {
+            "id": "testa_0387",
+            "question": "Biển báo cấm nào xuất hiện đầu tiên trong video?",
+            "choices": [
+                "A. Cấm rẽ phải",
+                "B. Cấm đỗ",
+                "C. Cấm đi ngược chiều",
+                "D. Cấm quay đầu"
+            ],
+            "video_path": "public_test/videos/a0d4de3d_1000_clip_004_0024_0032_Y.mp4"
+        },
+        {
+            "id": "testa_0388",
+            "question": "Phương tiện nào bị cấm theo biển báo trong video?",
+            "choices": [
+                "A. Xe sơ-mi rơ-mooc",
+                "B. Xe máy",
+                "C. Xe khách",
+                "D. Xe đạp"
+            ],
+            "video_path": "public_test/videos/60e7a113_1000_clip_005_0032_0042_Y.mp4"
+        },
+        {
+            "id": "testa_0389",
+            "question": "Biển báo cấm đầu tiên ở làn đường bên phải trong video là biển báo gì?",
+            "choices": [
+                "A. Cấm đi ngược chiều",
+                "B. Cấm đỗ",
+                "C. Cấm quay đầu",
+                "D. Cấm rẽ trái"
+            ],
+            "video_path": "public_test/videos/60e7a113_1000_clip_005_0032_0042_Y.mp4"
+        },
+        {
+            "id": "testa_0390",
+            "question": "Các biển báo hình tròn trong video thuộc nhóm biển báo nào?",
+            "choices": [
+                "A. Biển chỉ dẫn",
+                "B. Biển hiệu lệnh",
+                "C. Biển báo cấm",
+                "D. Biển báo phụ"
+            ],
+            "video_path": "public_test/videos/9cf20859_1000_clip_006_0042_0047_Y.mp4"
+        },
+        {
+            "id": "testa_0391",
+            "question": "Biển cảnh báo đầu tiên trong video có ý nghĩa gì?",
+            "choices": [
+                "A. Đi chậm",
+                "B. Giao nhau với đường không ưu tiên",
+                "C. Đường trơn",
+                "D. Công trường đang thi công"
+            ],
+            "video_path": "public_test/videos/ab545a15_1000_clip_007_0047_0060_Y.mp4"
+        },
+        {
+            "id": "testa_0392",
+            "question": "Đường Võ Văn Kiệt đi theo hướng nào trong video?",
+            "choices": [
+                "A. Đi thẳng",
+                "B. Rẽ trái",
+                "C. Rẽ phải",
+                "D. Quay đầu"
+            ],
+            "video_path": "public_test/videos/ab545a15_1000_clip_007_0047_0060_Y.mp4"
+        },
+        {
+            "id": "testa_0393",
+            "question": "Rẽ phải theo hướng trong video sẽ đi đến đâu?",
+            "choices": [
+                "A. Chợ Bến Thành",
+                "B. Cầu Sài Gòn",
+                "C. Khu công nghiệp Cát Lái",
+                "D. Cầu Phú Mỹ"
+            ],
+            "video_path": "public_test/videos/d8e049de_1000_clip_001_0000_0005_Y.mp4"
+        },
+        {
+            "id": "testa_0394",
+            "question": "Biển cấm nào xuất hiện đầu tiên trong video?",
+            "choices": [
+                "A. Cấm dừng đỗ",
+                "B. Cấm đỗ",
+                "C. Cấm rẽ trái",
+                "D. Cấm đi ngược chiều"
+            ],
+            "video_path": "public_test/videos/d8e049de_1000_clip_001_0000_0005_Y.mp4"
+        },
+        {
+            "id": "testa_0395",
+            "question": "Có tất cả mấy nhóm biển báo khác nhau trong video?",
+            "choices": [
+                "A. 2",
+                "B. 3",
+                "C. 4",
+                "D. 5"
+            ],
+            "video_path": "public_test/videos/92ca525a_1000_clip_003_0015_0023_Y.mp4"
+        },
+        {
+            "id": "testa_0396",
+            "question": "Trên chiếc cầu trong video xuất hiện biển báo gì?",
+            "choices": [
+                "A. Cấm tụ tập",
+                "B. Cấm đỗ",
+                "C. Cấm rẽ trái",
+                "D. Cấm đi ngược chiều"
+            ],
+            "video_path": "public_test/videos/d9d80b8d_1000_clip_005_0029_0039_N.mp4"
+        },
+        {
+            "id": "testa_0397",
+            "question": "Có bao nhiêu biển cảnh báo màu vàng xuất hiện trong video?",
+            "choices": [
+                "A. 0",
+                "B. 1",
+                "C. 2",
+                "D. 3"
+            ],
+            "video_path": "public_test/videos/d9d80b8d_1000_clip_005_0029_0039_N.mp4"
+        },
+        {
+            "id": "testa_0398",
+            "question": "Nội dung hai biển báo cấm trong video là gì?",
+            "choices": [
+                "A. Cấm đỗ xe ngày lẻ, cẫm đỗ xe ngày chẵn",
+                "B. Cấm đỗ xe, cấm đỗ xe ngày lẻ",
+                "C. Cấm dừng đỗ xe, cấm đỗ xe",
+                "D. Cấm đỗ xe ngày chẵn, cấm dừng đỗ xe"
+            ],
+            "video_path": "public_test/videos/a0a04dc4_1000_clip_001_0000_0009_Y.mp4"
+        },
+        {
+            "id": "testa_0399",
+            "question": "Có tất cả mấy nhóm biển báo khác nhau trong video?",
+            "choices": [
+                "A. 2",
+                "B. 3",
+                "C. 4",
+                "D. 5"
+            ],
+            "video_path": "public_test/videos/533f5a72_1000_clip_002_0009_0016_Y.mp4"
+        },
+        {
+            "id": "testa_0400",
+            "question": "Có tất cả mấy nhóm biển báo khác nhau trong video?",
+            "choices": [
+                "A. 2",
+                "B. 3",
+                "C. 4",
+                "D. 5"
+            ],
+            "video_path": "public_test/videos/49c10669_1000_clip_005_0031_0036_Y.mp4"
+        },
+        {
+            "id": "testa_0401",
+            "question": "Nội dung hai biển báo đầu tiên trong video là gì?",
+            "choices": [
+                "A. Cấm quay đầu từ 6h - 22h",
+                "B. Cấm rẽ trái từ 6h - 22h",
+                "C. Cấm quay đầu trước 6h sau 22h",
+                "D. Cấm rẽ trái trước 6h sau 22h"
+            ],
+            "video_path": "public_test/videos/49c10669_1000_clip_005_0031_0036_Y.mp4"
+        },
+        {
+            "id": "testa_0402",
+            "question": "3 biển báo đầu tiên trong video thuộc mấy nhóm biển báo khác nhau?",
+            "choices": [
+                "A. 1",
+                "B. 2",
+                "C. 3",
+                "D. Không có thông tin"
+            ],
+            "video_path": "public_test/videos/43cf2fde_1000_clip_006_0036_0045_Y.mp4"
+        },
+        {
+            "id": "testa_0403",
+            "question": "Ý nghĩa của các mốc thời gian ghi trong biển báo hình chữ nhật là gì?",
+            "choices": [
+                "A. Thời gian áp dụng lệnh cấm từ 6h - 9h và 16h - 19h",
+                "B. Thời gian không áp dụng lệnh cấm từ 6h - 9h và 16h -19h",
+                "C. Thời gian áp dụng lệnh cấm lúc 6h , 9h, 16h, 19h",
+                "D. Thời gian không áp dụng lệnh cấm lúc 6h , 9h, 16h, 19h"
+            ],
+            "video_path": "public_test/videos/43cf2fde_1000_clip_006_0036_0045_Y.mp4"
+        },
+        {
+            "id": "testa_0404",
+            "question": "Các biển báo hình tròn trong video thuộc nhóm biển báo nào?",
+            "choices": [
+                "A. Biển hiệu lệnh",
+                "B. Biển báo cấm",
+                "C. Biển báo phụ",
+                "D. Biển chỉ dẫn"
+            ],
+            "video_path": "public_test/videos/87d292a6_1000_clip_007_0045_0051_Y.mp4"
+        },
+        {
+            "id": "testa_0405",
+            "question": "Các phương tiện nào bị cấm di chuyển trên tuyến đường trong video?",
+            "choices": [
+                "A. Xe tải, xe xích lô, xe lam",
+                "B. Xe container, xe đạp, xe lam",
+                "C. Xe tải, xe xích lô, ba bánh",
+                "D. Xe container, xe xích lô, xe lam"
+            ],
+            "video_path": "public_test/videos/87d292a6_1000_clip_007_0045_0051_Y.mp4"
+        }
+    ]
+}
