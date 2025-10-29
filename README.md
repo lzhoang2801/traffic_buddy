@@ -16,9 +16,9 @@ Output: Corresponding answer to the question.
 
 ## Dataset
 
-• Training data: ~600 videos, ~1000 samples including: questions, videos, answers, support frames 
-• Public test: ~300 videos, ~500 samples including: questions, videos
-• Private test: ~300 videos, ~500 samples including: questions, videos 
+* Training data: ~600 videos, ~1000 samples including: questions, videos, answers, support frames 
+* Public test: ~300 videos, ~500 samples including: questions, videos
+* Private test: ~300 videos, ~500 samples including: questions, videos 
 
 Training dataset including a train.json file and a folder of traffic videos. Each item in the annotations of training data include:
 
