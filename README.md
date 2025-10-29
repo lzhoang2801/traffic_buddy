@@ -46,7 +46,15 @@ Training dataset including a train.json file and a folder of traffic videos. Eac
 }
 ```
 
-The dataset is available in the [dataset](dataset) directory.
+To obtain the dataset, you have two options:
+
+1. Download automatically using the script:
+```bash
+cd dataset
+python download_dataset.py
+```
+
+2. Or, download manually from [this link](https://drive.google.com/file/d/1F6X7vKzp18wQ6TnNnUuQrQq-OQ19TzZT/view?usp=sharing), then extract the contents into the `dataset` directory.
 
 ## Rule
 
