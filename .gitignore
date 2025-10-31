@@ -218,5 +218,18 @@ __marimo__/
 # Videos
 *.mp4
 
+# Images
+*.jpg
+
 # Temp files
 *.tmp
+
+# Dataset
+images/
+labels/
+split_dataset/
+dataset/*/test/
+dataset/*/train/
+valid/
+classes*.txt
+dataset.yaml
