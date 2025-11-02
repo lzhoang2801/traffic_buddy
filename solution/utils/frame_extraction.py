@@ -1,10 +1,9 @@
-from tarfile import data_filter
 import cv2
 import os
 import json
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-SAVE_DIR = "dataset/frame_extraction"
+SAVE_DIR = "solution/dataset/frame_extraction"
 os.makedirs(SAVE_DIR, exist_ok=True)
 
 def frame_extraction(video_path, reference_frames):
