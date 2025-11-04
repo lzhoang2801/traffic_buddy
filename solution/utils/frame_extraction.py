@@ -1,39 +1,49 @@
 import cv2
 import os
+import json
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
-def extract_frames(video_path, output_folder, reference_frame):
-    new_name = video_path.split("/")[-1].split(".")[0] + "_" + str(reference_frame)
+SAVE_DIR = "solution/dataset/frame_extraction"
+os.makedirs(SAVE_DIR, exist_ok=True)
 
+def frame_extraction(video_path, reference_frames):
+    print(f"Extracting frames for {video_path} with reference frames {reference_frames}")
     cap = cv2.VideoCapture(video_path)
-    if not cap.isOpened():
-        raise ValueError(f"Could not open video file: {video_path}")
 
-    fps = cap.get(cv2.CAP_PROP_FPS)
-    
-    frame_count = 0
-    while True:
+    video_fps = cap.get(cv2.CAP_PROP_FPS)
+
+    for target_frame in reference_frames:
+        cap.set(cv2.CAP_PROP_POS_FRAMES, target_frame * video_fps)
         ret, frame = cap.read()
-        if not ret:
-            break
-        frame_count += 1
-        if frame_count == int(reference_frame * fps):
-            cv2.imwrite(os.path.join(output_folder, f"{new_name}.jpg"), frame)
-            break
-
+        cv2.imwrite(f"{SAVE_DIR}/{video_path.split('/')[-1].replace('.mp4', f'_{target_frame}.jpg')}", frame)
+    
     cap.release()
-    return os.path.join(output_folder, f"{new_name}.jpg")
 
 if __name__ == "__main__":
-    import json
-    train_json = "dataset/train/train.json"
-    output_folder = "solution/test/extracted_frames"
+    input_dir = "dataset/train/videos"
+    json_file = "dataset/train/train.json"
 
-    with open(train_json, "r", encoding="utf-8") as f:
-        train_data = json.load(f)["data"]
+    if not os.path.exists(input_dir):
+        print(f"Input directory {input_dir} does not exist")
+        exit(1)
 
-    for item in train_data:
+    with open(json_file, "r", encoding="utf-8") as f:
+        data = json.load(f)["data"]
+
+    video_path_to_support_frames = {}
+    for item in data:
         video_path = os.path.join("dataset", item["video_path"])
-        
-        for reference_frame in item["support_frames"]:
-            frame_path = extract_frames(video_path, output_folder, reference_frame)
-            print(f"Frame saved to: {frame_path}")
+        if video_path not in video_path_to_support_frames:
+            video_path_to_support_frames[video_path] = []
+        video_path_to_support_frames[video_path].extend(item["support_frames"])
+        video_path_to_support_frames[video_path] = sorted(list(set(video_path_to_support_frames[video_path])))
+
+    tasks = []
+    with ThreadPoolExecutor(max_workers=os.cpu_count() or 4) as executor:
+        for video_path, support_frames in video_path_to_support_frames.items():
+            tasks.append(executor.submit(frame_extraction, video_path, support_frames))
+
+        for future in as_completed(tasks):
+            pass
+
+    print("Frame extraction complete")
